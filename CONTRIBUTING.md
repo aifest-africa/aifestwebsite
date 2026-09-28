@@ -26,13 +26,24 @@ Do not add large binaries to git.
 
 ## Branches & PRs
 
-- Branch from `setup` / `main` with a short name (`feat/…`, `fix/…`).
+- Branch from `main` (or the active integration branch) with a short name (`feat/…`, `fix/…`).
+- **Always update with `main` before merging** — CI fails if your branch is behind:
+
+```bash
+git fetch origin
+git merge origin/main   # or: git rebase origin/main
+git push
+```
+
 - Keep PRs focused (one concern).
 - Before opening a PR:
   - [ ] `npm run lint`
   - [ ] `npm run build`
+  - [ ] Branch includes latest `main` (CI “Up to date with main”)
   - [ ] No secrets in the diff
   - [ ] No Cursor / AI `Co-authored-by` trailers in commits
+
+Deploy & security details: [docs/cicd-vercel.md](./docs/cicd-vercel.md).
 
 ## Code style
 

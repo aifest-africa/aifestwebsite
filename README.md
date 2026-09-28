@@ -159,7 +159,14 @@ Edition content: `src/app/{year}/data.json` + `data.ts`.
 | --- | --- |
 | [CONTRIBUTING.md](./CONTRIBUTING.md) | Branching, PRs, media rules, no AI commit trailers |
 | [docs/architecture.md](./docs/architecture.md) | Editions, media URL scheme, partners |
+| [docs/cicd-vercel.md](./docs/cicd-vercel.md) | Vercel deploy, CI, firewall, require up-to-date with `main` |
 | [AGENTS.md](./AGENTS.md) | Guidance for coding agents (Next.js + Neon) |
+
+## CI / Vercel
+
+PRs to `main` run GitHub Actions (**lint + build**) and fail if the branch is **behind `main`**. Production deploys from `main` on Vercel.
+
+See [docs/cicd-vercel.md](./docs/cicd-vercel.md) for connecting Vercel, enabling Firewall, and (org admin) branch protection “Require branches to be up to date before merging”.
 
 ---
 
@@ -167,7 +174,7 @@ Edition content: `src/app/{year}/data.json` + `data.ts`.
 
 See [CONTRIBUTING.md](./CONTRIBUTING.md). Short version:
 
-1. Branch from the active integration branch (`contents` / `main` as appropriate).
-2. Keep PRs focused.
+1. Branch from `main`.
+2. Keep PRs focused; merge/rebase `origin/main` so CI’s “Up to date with main” check passes.
 3. Run `lint` + `build`.
 4. Do not commit secrets, `public/media`, or Cursor `Co-authored-by` trailers.
