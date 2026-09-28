@@ -47,9 +47,6 @@ export default function TeamPage() {
     const boardMembers = useMemo(() => teamMembers.filter(m => m.category === 'board'), [teamMembers]);
     const filteredGridMembers = useMemo(() => teamMembers.filter(m => m.category !== 'board'), [teamMembers]);
 
-    // Show empty state if no members
-    const hasMembers = teamMembers.length > 0;
-
     return (
         <main className="overflow-hidden bg-transparent transition-colors duration-500 pb-12 relative pt-24 md:pt-32">
             {/* Unified Gradient Background */}

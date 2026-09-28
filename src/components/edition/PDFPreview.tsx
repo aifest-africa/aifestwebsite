@@ -2,7 +2,7 @@
 
 import Image from "next/image";
 import { motion } from "framer-motion";
-import { FileText, Download, Eye } from "lucide-react";
+import { FileText, Eye } from "lucide-react";
 
 interface PDFPreviewProps {
     url: string;

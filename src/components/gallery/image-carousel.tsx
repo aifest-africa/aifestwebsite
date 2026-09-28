@@ -37,6 +37,7 @@ export function ImageCarousel({ images }: { images: CarouselImage[] }) {
                 : "opacity-0 scale-105"
             )}
           >
+            {/* eslint-disable-next-line @next/next/no-img-element -- carousel needs plain img for absolute fill transitions */}
             <img
               src={img.image_path}
               alt={img.caption || ""}
