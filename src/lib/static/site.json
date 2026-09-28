@@ -1,0 +1,158 @@
+{
+  "brand_name": "AIFEST Uganda",
+  "brand_tagline": "Preparing for AIFEST 2027, Uganda's InterUniversity AI Hackathon",
+  "logo_path": null,
+  "default_meta_title": "AIFEST Uganda",
+  "default_meta_description": "AIFEST Uganda is preparing for AIFEST 2027, connecting students across East Africa to build AI solutions that matter.",
+  "announcement_enabled": true,
+  "announcement_badge": "2027",
+  "announcement_text": "We are preparing for AIFEST 2027. Get involved early while we shape the next edition.",
+  "announcement_primary_label": "Get Involved",
+  "announcement_primary_href": "/get-involved",
+  "announcement_secondary_label": "Past Editions",
+  "announcement_secondary_href": "/past-editions",
+  "nav_links": [
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Past Editions",
+      "href": "/past-editions"
+    },
+    {
+      "label": "Get Involved",
+      "href": "/get-involved"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Teams",
+      "href": "/teams"
+    },
+    {
+      "label": "Resources",
+      "href": "/resources"
+    }
+  ],
+  "footer_blurb": "AIFEST Uganda is East Africa's premier student AI hackathon, bridging the AI gap across universities.",
+  "footer_links": [
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Get Involved",
+      "href": "/get-involved"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "footer_note": "© 2026 AIFEST. All rights reserved.",
+  "contact_email": "info@aifestug.com",
+  "socials": [
+    {
+      "platform": "twitter",
+      "href": "https://twitter.com/aifestug",
+      "label": "Twitter"
+    },
+    {
+      "platform": "linkedin",
+      "href": "https://linkedin.com/company/aifest",
+      "label": "LinkedIn"
+    },
+    {
+      "platform": "instagram",
+      "href": "https://instagram.com/aifestug",
+      "label": "Instagram"
+    }
+  ],
+  "credibility_items": [
+    "335 Students in 2026",
+    "37 Institutions",
+    "109 Teams",
+    "31.3% Female"
+  ],
+  "home_badge": "AIFEST 2027",
+  "home_status": "Preparing for the next edition",
+  "home_primary_cta_label": "Get Involved",
+  "home_primary_cta_href": "/get-involved",
+  "home_secondary_cta_label": "Past Editions",
+  "home_secondary_cta_href": "/past-editions",
+  "home_tertiary_cta_label": "Partner With Us",
+  "home_tertiary_cta_href": "/get-involved#partnership",
+  "home_cards": [
+    {
+      "title": "AIFEST 2027",
+      "desc": "We are preparing for the next Inter University AI Hackathon. Volunteer, mentor, or partner with us early.",
+      "href": "/get-involved"
+    },
+    {
+      "title": "Past Editions",
+      "desc": "Explore AIFEST 2026 and 2025, winners, stats, reports, and highlights.",
+      "href": "/past-editions"
+    },
+    {
+      "title": "Partner With Us",
+      "desc": "Sponsor, volunteer, mentor, or partner with us to shape AIFEST 2027 and the future of AI in East Africa.",
+      "href": "/get-involved#partnership"
+    }
+  ],
+  "partner_logos": [
+    {
+      "path": "/media/shared/partners/gdg.png",
+      "alt": "GDG on Campus",
+      "href": "https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/"
+    },
+    {
+      "path": "/partners/amalitech.png",
+      "alt": "AmaliTech",
+      "href": "https://amalitech.com"
+    },
+    {
+      "path": "/partners/microsoft.png",
+      "alt": "Microsoft"
+    },
+    {
+      "path": "/partners/github.png",
+      "alt": "GitHub"
+    },
+    {
+      "path": "/partners/ieee.png",
+      "alt": "IEEE"
+    },
+    {
+      "path": "/partners/makerereUniversity.png",
+      "alt": "Makerere University"
+    },
+    {
+      "path": "/partners/miic.png",
+      "alt": "MIIC Hub"
+    },
+    {
+      "path": "/partners/sunbird.png",
+      "alt": "Sunbird AI"
+    },
+    {
+      "path": "/partners/badili.png",
+      "alt": "Badili"
+    },
+    {
+      "path": "/partners/mpampe.png",
+      "alt": "Mpampe"
+    }
+  ],
+  "registration_enabled": false,
+  "registration_url": null,
+  "registration_label": "AIFEST 2027 Coming Soon",
+  "campaign_signups": 335,
+  "campaign_teams": 109
+}

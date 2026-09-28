@@ -1,0 +1,2078 @@
+{
+  "year": 2026,
+  "slug": "2026",
+  "published": true,
+  "featured": false,
+  "heroTitle": "AIFEST 2026 Wrap",
+  "heroSubtitle": "What a Saturday it was. From 109 teams and 335 students across 37 institutions, to 40 working prototypes and 11 finalists on the big stage at the American Center. AIFEST Uganda 2026 is officially a wrap.",
+  "heroImage": "/media/2026/assets/aifest.png",
+  "heroImages": [],
+  "registrationImage": "/media/2026/assets/AIFEST 26 Events.png",
+  "registrationUrl": "https://adobe.ly/435hil6",
+  "prototypeSubmissionUrl": "https://bit.ly/aifest26rawpics",
+  "photoGalleryUrl": "https://adobe.ly/435hil6",
+  "rawPhotosUrl": "https://bit.ly/aifest26rawpics",
+  "title": "Inter University Hackathon 2026",
+  "summary": "AIFEST 2026, the second edition, brought students together under the theme AI Agents for Uganda, with tracks in Web2 AI Agents and Agentic Web3, to build agents that reason, act, and create real world impact.",
+  "themes": [
+    "AI Agents for Uganda",
+    "Web2 AI Agents",
+    "Agentic Web3",
+    "Real World Impact"
+  ],
+  "outcomes": [
+    "109 teams and 335 students from 37 institutions",
+    "105 female participants (31.3% representation)",
+    "40 working prototypes and 11 finalists on stage",
+    "210 attendees on D-Day at the American Center Kampala",
+    "Top 10 teams receiving MIICHub incubation support"
+  ],
+  "statistics": {
+    "participants": 335,
+    "universities": 37,
+    "projects": 40,
+    "partners": 7,
+    "prizePool": 3000000
+  },
+  "participatingUniversities": [
+    "Makerere University",
+    "Kyambogo University",
+    "ISBAT University",
+    "Mbarara Univ. of Science & Technology (MUST)",
+    "Victoria University",
+    "Kabale University",
+    "UTAMU",
+    "Bugema University",
+    "MUBS",
+    "Ndejje University",
+    "Nkumba University",
+    "Soroti University",
+    "UICT",
+    "Ernest Cook University",
+    "Limkokwing University",
+    "Gulu University",
+    "UCU (Uganda Christian University)",
+    "KIU (Kampala International University)",
+    "Bishop Stuart University",
+    "Cavendish University",
+    "IUEA",
+    "Islamic University in Uganda",
+    "Busitema University",
+    "Multitech Business School",
+    "Metropolitan International University",
+    "Team University",
+    "St Peter's University",
+    "Mutesa Royal University",
+    "Refactory Academy",
+    "Queen of Martyrs High School",
+    "High School / Pre-University",
+    "Buganda Royal Institute of Business & Technical Ed.",
+    "Billbrain Institute of Technology",
+    "Self / Independent",
+    "JKUAT (Kenya)",
+    "Chandigarh University (India)",
+    "YMCA"
+  ],
+  "reportHighlights": [
+    "109 teams and 335 students from 37 institutions in Uganda and beyond",
+    "105 female participants (31.3%) and 230 male participants (68.7%)",
+    "Top focus areas: Good Health (30), Quality Education (22), Social Impact (19)",
+    "40 working prototypes and 11 finalists on the big stage",
+    "210 attendees on D-Day at the American Center Kampala",
+    "91 of 109 teams wanted mentorship; 93 wanted post hackathon incubation",
+    "All Top 10 teams receive startup incubation support from MIICHub",
+    "Over UGX 3,000,000 in cash prizes plus USD 1,000 in technology credits"
+  ],
+  "winners": [
+    {
+      "name": "Tech Titans",
+      "team": "ISBAT University",
+      "track": "1st Place",
+      "prize": 1200000,
+      "project": "K3 Studio: AI agent mission control with mobile money payments (UGX 1,200,000 + $500 USD in credits)",
+      "placement": 1
+    },
+    {
+      "name": "Intelli-gents",
+      "team": "Kyambogo University",
+      "track": "2nd Place",
+      "prize": 900000,
+      "project": "Maneja: smart shop management for Ugandan kiosks (UGX 900,000 + $300 USD in credits)",
+      "placement": 2
+    },
+    {
+      "name": "Ferox",
+      "team": "Makerere University",
+      "track": "3rd Place",
+      "prize": 600000,
+      "project": "AI coordination agent for maternal malaria monitoring in Uganda's VHT hierarchy (UGX 600,000 + $200 USD in credits)",
+      "placement": 3
+    },
+    {
+      "name": "TechSync",
+      "team": "Uganda Christian University",
+      "track": "Online Winner",
+      "prize": 300000,
+      "project": "FarmWatch: AI farming platform with Arduino sensors (UGX 300,000)",
+      "placement": 4
+    }
+  ],
+  "sponsorshipDeckUrl": "/media/2026/decks/AIFest 2026 Sponsorship_compressed.pdf",
+  "sponsorshipDeckPreview": "/media/2026/decks/sponsorship.png",
+  "infoSessionDeckUrl": "/media/2026/decks/AIFest 2026 Info Slides_compressed.pdf",
+  "infoSessionDeckPreview": "/media/2026/decks/infoslides.png",
+  "impactReportUrl": "/media/2026/reports/AIFest 2026 Post Event Brief.pdf",
+  "impactReportPreview": "/media/2026/reports/reportpreview.png",
+  "venue": {
+    "name": "American Center Kampala",
+    "address": "U.S. Embassy Kampala, Plot 1577 Ggaba Road",
+    "poBox": "P. O. Box 7007",
+    "city": "Kampala, Uganda",
+    "phone": "+256 414-341-019",
+    "email": "KampalaAmericanCenter@state.gov"
+  },
+  "timeline": [
+    {
+      "title": "Idea Submission",
+      "date": "1st Jan - 15th Feb",
+      "color": "bg-blue-600",
+      "textColor": "text-white",
+      "badgeColor": "bg-white/20"
+    },
+    {
+      "title": "Prototype Submission",
+      "date": "16th - 28th Feb",
+      "color": "bg-red-600",
+      "textColor": "text-white",
+      "badgeColor": "bg-white/20"
+    },
+    {
+      "title": "Judging Phase 1",
+      "date": "1st - 6th April",
+      "color": "bg-yellow-600",
+      "textColor": "text-white",
+      "badgeColor": "bg-white/20"
+    },
+    {
+      "title": "Top 10 Shortlist",
+      "date": "15th April",
+      "color": "bg-green-600",
+      "textColor": "text-white",
+      "badgeColor": "bg-white/20"
+    },
+    {
+      "title": "AIFEST 2026",
+      "date": "May 9th, 9am - 4pm",
+      "color": "bg-[#00D9FF]",
+      "textColor": "text-[#001F3F]",
+      "badgeColor": "bg-white/20",
+      "large": true
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What happens after registration?",
+      "answer": "After you register, join the Whatsapp Community Group. You should then start refining your idea and team. The next major step is the Idea Submission phase which runs until Feb 15th, followed by the Prototyping phase."
+    },
+    {
+      "question": "What do they mean by 'AI Agents' in this context?",
+      "answer": "It goes beyond simple chatbots or connecting to an API. We're looking for robust AI applications where models are actively utilized to solve complex problems. Think systems that reason, take action, and perform tasks, not just generate text."
+    },
+    {
+      "question": "Are we going to code during the event or just present?",
+      "answer": "You will build your projects beforehand during the Prototyping Phase (Feb 16th - 28th). The final event day (May 9th) is for presenting your already completed and polished prototypes to the judges and audience."
+    },
+    {
+      "question": "Who will be presenting on the event day?",
+      "answer": "Only the top 10 shortlisted teams will be invited to present their projects to the judges and the audience on the final event day (May 9th)."
+    },
+    {
+      "question": "Who can participate?",
+      "answer": "Participation is open to all university students who are passionate about AI and technology. Whether you're a coder, designer, or prompt engineer, there's a place for you."
+    },
+    {
+      "question": "Is it free to join?",
+      "answer": "Yes! Participation in Aifest 2026 is completely free for all admitted students."
+    }
+  ],
+  "partners": [
+    {
+      "logo": "/media/2026/partners/gdg.png",
+      "name": "GDG on Campus",
+      "href": "https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/"
+    },
+    {
+      "logo": "/media/2026/partners/sunbird.png",
+      "name": "Sunbird AI",
+      "href": "https://sunbird.ai/"
+    },
+    {
+      "logo": "/media/2026/partners/miic.png",
+      "name": "MIIC Hub",
+      "href": "https://miichub.com/"
+    },
+    {
+      "logo": "/media/2026/partners/makerereUniversity.png",
+      "name": "Makerere University",
+      "href": "https://mak.ac.ug/"
+    },
+    {
+      "logo": "/media/2026/partners/ministryofict.png",
+      "name": "Ministry of ICT",
+      "href": "https://ict.go.ug/"
+    },
+    {
+      "logo": "/media/2026/partners/blackpythondevs.png",
+      "name": "Black Python Devs",
+      "href": "https://blackpythondevs.com/"
+    },
+    {
+      "logo": "/media/2026/partners/cursor.png",
+      "name": "Cursor Community",
+      "href": "https://lu.ma/cursorcommunity"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 2026000000,
+      "image_path": "/media/2026/gallery/20260411_093503.jpg",
+      "caption": "AIFEST 2026 \u2014 1",
+      "alt": "AIFEST 2026 gallery photo 1",
+      "sort_order": 0
+    },
+    {
+      "id": 2026000001,
+      "image_path": "/media/2026/gallery/20260411_104018.jpg",
+      "caption": "AIFEST 2026 \u2014 2",
+      "alt": "AIFEST 2026 gallery photo 2",
+      "sort_order": 1
+    },
+    {
+      "id": 2026000002,
+      "image_path": "/media/2026/gallery/20260411_104022.jpg",
+      "caption": "AIFEST 2026 \u2014 3",
+      "alt": "AIFEST 2026 gallery photo 3",
+      "sort_order": 2
+    },
+    {
+      "id": 2026000003,
+      "image_path": "/media/2026/gallery/20260411_112324.jpg",
+      "caption": "AIFEST 2026 \u2014 4",
+      "alt": "AIFEST 2026 gallery photo 4",
+      "sort_order": 3
+    },
+    {
+      "id": 2026000004,
+      "image_path": "/media/2026/gallery/20260411_112338.jpg",
+      "caption": "AIFEST 2026 \u2014 5",
+      "alt": "AIFEST 2026 gallery photo 5",
+      "sort_order": 4
+    },
+    {
+      "id": 2026000005,
+      "image_path": "/media/2026/gallery/20260411_112345.jpg",
+      "caption": "AIFEST 2026 \u2014 6",
+      "alt": "AIFEST 2026 gallery photo 6",
+      "sort_order": 5
+    },
+    {
+      "id": 2026000006,
+      "image_path": "/media/2026/gallery/20260411_112947.jpg",
+      "caption": "AIFEST 2026 \u2014 7",
+      "alt": "AIFEST 2026 gallery photo 7",
+      "sort_order": 6
+    },
+    {
+      "id": 2026000007,
+      "image_path": "/media/2026/gallery/20260411_113210.jpg",
+      "caption": "AIFEST 2026 \u2014 8",
+      "alt": "AIFEST 2026 gallery photo 8",
+      "sort_order": 7
+    },
+    {
+      "id": 2026000008,
+      "image_path": "/media/2026/gallery/20260411_133000.jpg",
+      "caption": "AIFEST 2026 \u2014 9",
+      "alt": "AIFEST 2026 gallery photo 9",
+      "sort_order": 8
+    },
+    {
+      "id": 2026000009,
+      "image_path": "/media/2026/gallery/20260411_133110.jpg",
+      "caption": "AIFEST 2026 \u2014 10",
+      "alt": "AIFEST 2026 gallery photo 10",
+      "sort_order": 9
+    },
+    {
+      "id": 2026000010,
+      "image_path": "/media/2026/gallery/20260411_133541.jpg",
+      "caption": "AIFEST 2026 \u2014 11",
+      "alt": "AIFEST 2026 gallery photo 11",
+      "sort_order": 10
+    },
+    {
+      "id": 2026000011,
+      "image_path": "/media/2026/gallery/20260411_134008.jpg",
+      "caption": "AIFEST 2026 \u2014 12",
+      "alt": "AIFEST 2026 gallery photo 12",
+      "sort_order": 11
+    },
+    {
+      "id": 2026000012,
+      "image_path": "/media/2026/gallery/20260411_134159.jpg",
+      "caption": "AIFEST 2026 \u2014 13",
+      "alt": "AIFEST 2026 gallery photo 13",
+      "sort_order": 12
+    },
+    {
+      "id": 2026000013,
+      "image_path": "/media/2026/gallery/20260411_135621.jpg",
+      "caption": "AIFEST 2026 \u2014 14",
+      "alt": "AIFEST 2026 gallery photo 14",
+      "sort_order": 13
+    },
+    {
+      "id": 2026000014,
+      "image_path": "/media/2026/gallery/20260411_143546.jpg",
+      "caption": "AIFEST 2026 \u2014 15",
+      "alt": "AIFEST 2026 gallery photo 15",
+      "sort_order": 14
+    },
+    {
+      "id": 2026000015,
+      "image_path": "/media/2026/gallery/20260411_143658.jpg",
+      "caption": "AIFEST 2026 \u2014 16",
+      "alt": "AIFEST 2026 gallery photo 16",
+      "sort_order": 15
+    },
+    {
+      "id": 2026000016,
+      "image_path": "/media/2026/gallery/20260411_143707.jpg",
+      "caption": "AIFEST 2026 \u2014 17",
+      "alt": "AIFEST 2026 gallery photo 17",
+      "sort_order": 16
+    },
+    {
+      "id": 2026000017,
+      "image_path": "/media/2026/gallery/20260411_143710.jpg",
+      "caption": "AIFEST 2026 \u2014 18",
+      "alt": "AIFEST 2026 gallery photo 18",
+      "sort_order": 17
+    },
+    {
+      "id": 2026000018,
+      "image_path": "/media/2026/gallery/20260411_143714.jpg",
+      "caption": "AIFEST 2026 \u2014 19",
+      "alt": "AIFEST 2026 gallery photo 19",
+      "sort_order": 18
+    },
+    {
+      "id": 2026000019,
+      "image_path": "/media/2026/gallery/20260411_145910.jpg",
+      "caption": "AIFEST 2026 \u2014 20",
+      "alt": "AIFEST 2026 gallery photo 20",
+      "sort_order": 19
+    },
+    {
+      "id": 2026000020,
+      "image_path": "/media/2026/gallery/20260411_145921.jpg",
+      "caption": "AIFEST 2026 \u2014 21",
+      "alt": "AIFEST 2026 gallery photo 21",
+      "sort_order": 20
+    },
+    {
+      "id": 2026000021,
+      "image_path": "/media/2026/gallery/20260411_153737.jpg",
+      "caption": "AIFEST 2026 \u2014 22",
+      "alt": "AIFEST 2026 gallery photo 22",
+      "sort_order": 21
+    },
+    {
+      "id": 2026000022,
+      "image_path": "/media/2026/gallery/20260411_153809.jpg",
+      "caption": "AIFEST 2026 \u2014 23",
+      "alt": "AIFEST 2026 gallery photo 23",
+      "sort_order": 22
+    },
+    {
+      "id": 2026000023,
+      "image_path": "/media/2026/gallery/20260411_153918.jpg",
+      "caption": "AIFEST 2026 \u2014 24",
+      "alt": "AIFEST 2026 gallery photo 24",
+      "sort_order": 23
+    },
+    {
+      "id": 2026000024,
+      "image_path": "/media/2026/gallery/20260411_153931.jpg",
+      "caption": "AIFEST 2026 \u2014 25",
+      "alt": "AIFEST 2026 gallery photo 25",
+      "sort_order": 24
+    },
+    {
+      "id": 2026000025,
+      "image_path": "/media/2026/gallery/IMG_0228 - Copy - Copy (2).JPG",
+      "caption": "AIFEST 2026 \u2014 26",
+      "alt": "AIFEST 2026 gallery photo 26",
+      "sort_order": 25
+    },
+    {
+      "id": 2026000026,
+      "image_path": "/media/2026/gallery/IMG_0229.JPG",
+      "caption": "AIFEST 2026 \u2014 27",
+      "alt": "AIFEST 2026 gallery photo 27",
+      "sort_order": 26
+    },
+    {
+      "id": 2026000027,
+      "image_path": "/media/2026/gallery/IMG_0236 - Copy (2) - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 28",
+      "alt": "AIFEST 2026 gallery photo 28",
+      "sort_order": 27
+    },
+    {
+      "id": 2026000028,
+      "image_path": "/media/2026/gallery/IMG_0247 - Copy - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 29",
+      "alt": "AIFEST 2026 gallery photo 29",
+      "sort_order": 28
+    },
+    {
+      "id": 2026000029,
+      "image_path": "/media/2026/gallery/IMG_0272 - Copy - Copy (2).JPG",
+      "caption": "AIFEST 2026 \u2014 30",
+      "alt": "AIFEST 2026 gallery photo 30",
+      "sort_order": 29
+    },
+    {
+      "id": 2026000030,
+      "image_path": "/media/2026/gallery/IMG_0282 - Copy - Copy - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 31",
+      "alt": "AIFEST 2026 gallery photo 31",
+      "sort_order": 30
+    },
+    {
+      "id": 2026000031,
+      "image_path": "/media/2026/gallery/IMG_0294 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 32",
+      "alt": "AIFEST 2026 gallery photo 32",
+      "sort_order": 31
+    },
+    {
+      "id": 2026000032,
+      "image_path": "/media/2026/gallery/IMG_0296 - Copy (3).JPG",
+      "caption": "AIFEST 2026 \u2014 33",
+      "alt": "AIFEST 2026 gallery photo 33",
+      "sort_order": 32
+    },
+    {
+      "id": 2026000033,
+      "image_path": "/media/2026/gallery/IMG_0313 - Copy - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 34",
+      "alt": "AIFEST 2026 gallery photo 34",
+      "sort_order": 33
+    },
+    {
+      "id": 2026000034,
+      "image_path": "/media/2026/gallery/IMG_0372 - Copy (2).JPG",
+      "caption": "AIFEST 2026 \u2014 35",
+      "alt": "AIFEST 2026 gallery photo 35",
+      "sort_order": 34
+    },
+    {
+      "id": 2026000035,
+      "image_path": "/media/2026/gallery/IMG_0399 - Copy (2).JPG",
+      "caption": "AIFEST 2026 \u2014 36",
+      "alt": "AIFEST 2026 gallery photo 36",
+      "sort_order": 35
+    },
+    {
+      "id": 2026000036,
+      "image_path": "/media/2026/gallery/IMG_0412.JPG",
+      "caption": "AIFEST 2026 \u2014 37",
+      "alt": "AIFEST 2026 gallery photo 37",
+      "sort_order": 36
+    },
+    {
+      "id": 2026000037,
+      "image_path": "/media/2026/gallery/IMG_0434.JPG",
+      "caption": "AIFEST 2026 \u2014 38",
+      "alt": "AIFEST 2026 gallery photo 38",
+      "sort_order": 37
+    },
+    {
+      "id": 2026000038,
+      "image_path": "/media/2026/gallery/IMG_0482 - Copy (2).JPG",
+      "caption": "AIFEST 2026 \u2014 39",
+      "alt": "AIFEST 2026 gallery photo 39",
+      "sort_order": 38
+    },
+    {
+      "id": 2026000039,
+      "image_path": "/media/2026/gallery/IMG_0496.JPG",
+      "caption": "AIFEST 2026 \u2014 40",
+      "alt": "AIFEST 2026 gallery photo 40",
+      "sort_order": 39
+    },
+    {
+      "id": 2026000040,
+      "image_path": "/media/2026/gallery/IMG_0556.JPG",
+      "caption": "AIFEST 2026 \u2014 41",
+      "alt": "AIFEST 2026 gallery photo 41",
+      "sort_order": 40
+    },
+    {
+      "id": 2026000041,
+      "image_path": "/media/2026/gallery/IMG_0564.JPG",
+      "caption": "AIFEST 2026 \u2014 42",
+      "alt": "AIFEST 2026 gallery photo 42",
+      "sort_order": 41
+    },
+    {
+      "id": 2026000042,
+      "image_path": "/media/2026/gallery/IMG_0609.JPG",
+      "caption": "AIFEST 2026 \u2014 43",
+      "alt": "AIFEST 2026 gallery photo 43",
+      "sort_order": 42
+    },
+    {
+      "id": 2026000043,
+      "image_path": "/media/2026/gallery/IMG_0625.JPG",
+      "caption": "AIFEST 2026 \u2014 44",
+      "alt": "AIFEST 2026 gallery photo 44",
+      "sort_order": 43
+    },
+    {
+      "id": 2026000044,
+      "image_path": "/media/2026/gallery/IMG_0651 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 45",
+      "alt": "AIFEST 2026 gallery photo 45",
+      "sort_order": 44
+    },
+    {
+      "id": 2026000045,
+      "image_path": "/media/2026/gallery/IMG_0653.JPG",
+      "caption": "AIFEST 2026 \u2014 46",
+      "alt": "AIFEST 2026 gallery photo 46",
+      "sort_order": 45
+    },
+    {
+      "id": 2026000046,
+      "image_path": "/media/2026/gallery/IMG_0658.JPG",
+      "caption": "AIFEST 2026 \u2014 47",
+      "alt": "AIFEST 2026 gallery photo 47",
+      "sort_order": 46
+    },
+    {
+      "id": 2026000047,
+      "image_path": "/media/2026/gallery/IMG_0662 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 48",
+      "alt": "AIFEST 2026 gallery photo 48",
+      "sort_order": 47
+    },
+    {
+      "id": 2026000048,
+      "image_path": "/media/2026/gallery/IMG_0664 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 49",
+      "alt": "AIFEST 2026 gallery photo 49",
+      "sort_order": 48
+    },
+    {
+      "id": 2026000049,
+      "image_path": "/media/2026/gallery/IMG_0672.JPG",
+      "caption": "AIFEST 2026 \u2014 50",
+      "alt": "AIFEST 2026 gallery photo 50",
+      "sort_order": 49
+    },
+    {
+      "id": 2026000050,
+      "image_path": "/media/2026/gallery/IMG_0673.JPG",
+      "caption": "AIFEST 2026 \u2014 51",
+      "alt": "AIFEST 2026 gallery photo 51",
+      "sort_order": 50
+    },
+    {
+      "id": 2026000051,
+      "image_path": "/media/2026/gallery/IMG_0676 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 52",
+      "alt": "AIFEST 2026 gallery photo 52",
+      "sort_order": 51
+    },
+    {
+      "id": 2026000052,
+      "image_path": "/media/2026/gallery/IMG_0677 - Copy.JPG",
+      "caption": "AIFEST 2026 \u2014 53",
+      "alt": "AIFEST 2026 gallery photo 53",
+      "sort_order": 52
+    },
+    {
+      "id": 2026000053,
+      "image_path": "/media/2026/gallery/IMG_0682.JPG",
+      "caption": "AIFEST 2026 \u2014 54",
+      "alt": "AIFEST 2026 gallery photo 54",
+      "sort_order": 53
+    },
+    {
+      "id": 2026000054,
+      "image_path": "/media/2026/gallery/IMG_E0454.JPG",
+      "caption": "AIFEST 2026 \u2014 55",
+      "alt": "AIFEST 2026 gallery photo 55",
+      "sort_order": 54
+    },
+    {
+      "id": 2026000055,
+      "image_path": "/media/2026/gallery/IMG_E0497.JPG",
+      "caption": "AIFEST 2026 \u2014 56",
+      "alt": "AIFEST 2026 gallery photo 56",
+      "sort_order": 55
+    },
+    {
+      "id": 2026000056,
+      "image_path": "/media/2026/gallery/IMG_E0505.JPG",
+      "caption": "AIFEST 2026 \u2014 57",
+      "alt": "AIFEST 2026 gallery photo 57",
+      "sort_order": 56
+    },
+    {
+      "id": 2026000057,
+      "image_path": "/media/2026/gallery/IMG_E0557.JPG",
+      "caption": "AIFEST 2026 \u2014 58",
+      "alt": "AIFEST 2026 gallery photo 58",
+      "sort_order": 57
+    },
+    {
+      "id": 2026000058,
+      "image_path": "/media/2026/gallery/IMG_E0561.JPG",
+      "caption": "AIFEST 2026 \u2014 59",
+      "alt": "AIFEST 2026 gallery photo 59",
+      "sort_order": 58
+    },
+    {
+      "id": 2026000059,
+      "image_path": "/media/2026/gallery/IMG_E0565.JPG",
+      "caption": "AIFEST 2026 \u2014 60",
+      "alt": "AIFEST 2026 gallery photo 60",
+      "sort_order": 59
+    },
+    {
+      "id": 2026000060,
+      "image_path": "/media/2026/gallery/IMG_E0568.JPG",
+      "caption": "AIFEST 2026 \u2014 61",
+      "alt": "AIFEST 2026 gallery photo 61",
+      "sort_order": 60
+    },
+    {
+      "id": 2026000061,
+      "image_path": "/media/2026/gallery/IMG_E0636.JPG",
+      "caption": "AIFEST 2026 \u2014 62",
+      "alt": "AIFEST 2026 gallery photo 62",
+      "sort_order": 61
+    },
+    {
+      "id": 2026000062,
+      "image_path": "/media/2026/gallery/IMG_E0693.JPG",
+      "caption": "AIFEST 2026 \u2014 63",
+      "alt": "AIFEST 2026 gallery photo 63",
+      "sort_order": 62
+    },
+    {
+      "id": 2026000063,
+      "image_path": "/media/2026/gallery/IMG_E0698.JPG",
+      "caption": "AIFEST 2026 \u2014 64",
+      "alt": "AIFEST 2026 gallery photo 64",
+      "sort_order": 63
+    },
+    {
+      "id": 2026000064,
+      "image_path": "/media/2026/gallery/IMG_E0766.JPG",
+      "caption": "AIFEST 2026 \u2014 65",
+      "alt": "AIFEST 2026 gallery photo 65",
+      "sort_order": 64
+    },
+    {
+      "id": 2026000065,
+      "image_path": "/media/2026/gallery/IMG_E0775.JPG",
+      "caption": "AIFEST 2026 \u2014 66",
+      "alt": "AIFEST 2026 gallery photo 66",
+      "sort_order": 65
+    },
+    {
+      "id": 2026000066,
+      "image_path": "/media/2026/gallery/IMG_E0802.JPG",
+      "caption": "AIFEST 2026 \u2014 67",
+      "alt": "AIFEST 2026 gallery photo 67",
+      "sort_order": 66
+    },
+    {
+      "id": 2026000067,
+      "image_path": "/media/2026/gallery/IMG_E0839.JPG",
+      "caption": "AIFEST 2026 \u2014 68",
+      "alt": "AIFEST 2026 gallery photo 68",
+      "sort_order": 67
+    },
+    {
+      "id": 2026000068,
+      "image_path": "/media/2026/gallery/IMG_E0855.JPG",
+      "caption": "AIFEST 2026 \u2014 69",
+      "alt": "AIFEST 2026 gallery photo 69",
+      "sort_order": 68
+    },
+    {
+      "id": 2026000069,
+      "image_path": "/media/2026/gallery/IMG_E0859.JPG",
+      "caption": "AIFEST 2026 \u2014 70",
+      "alt": "AIFEST 2026 gallery photo 70",
+      "sort_order": 69
+    },
+    {
+      "id": 2026000070,
+      "image_path": "/media/2026/gallery/IMG_E0860.JPG",
+      "caption": "AIFEST 2026 \u2014 71",
+      "alt": "AIFEST 2026 gallery photo 71",
+      "sort_order": 70
+    },
+    {
+      "id": 2026000071,
+      "image_path": "/media/2026/gallery/IMG_E0861.JPG",
+      "caption": "AIFEST 2026 \u2014 72",
+      "alt": "AIFEST 2026 gallery photo 72",
+      "sort_order": 71
+    },
+    {
+      "id": 2026000072,
+      "image_path": "/media/2026/gallery/IMG_E0862.JPG",
+      "caption": "AIFEST 2026 \u2014 73",
+      "alt": "AIFEST 2026 gallery photo 73",
+      "sort_order": 72
+    },
+    {
+      "id": 2026000073,
+      "image_path": "/media/2026/gallery/IMG_E0874.JPG",
+      "caption": "AIFEST 2026 \u2014 74",
+      "alt": "AIFEST 2026 gallery photo 74",
+      "sort_order": 73
+    },
+    {
+      "id": 2026000074,
+      "image_path": "/media/2026/gallery/_DSC5679.JPG",
+      "caption": "AIFEST 2026 \u2014 75",
+      "alt": "AIFEST 2026 gallery photo 75",
+      "sort_order": 74
+    },
+    {
+      "id": 2026000075,
+      "image_path": "/media/2026/gallery/_DSC5682.JPG",
+      "caption": "AIFEST 2026 \u2014 76",
+      "alt": "AIFEST 2026 gallery photo 76",
+      "sort_order": 75
+    },
+    {
+      "id": 2026000076,
+      "image_path": "/media/2026/gallery/_DSC5683.JPG",
+      "caption": "AIFEST 2026 \u2014 77",
+      "alt": "AIFEST 2026 gallery photo 77",
+      "sort_order": 76
+    },
+    {
+      "id": 2026000077,
+      "image_path": "/media/2026/gallery/_DSC5686.JPG",
+      "caption": "AIFEST 2026 \u2014 78",
+      "alt": "AIFEST 2026 gallery photo 78",
+      "sort_order": 77
+    },
+    {
+      "id": 2026000078,
+      "image_path": "/media/2026/gallery/_DSC5688.JPG",
+      "caption": "AIFEST 2026 \u2014 79",
+      "alt": "AIFEST 2026 gallery photo 79",
+      "sort_order": 78
+    },
+    {
+      "id": 2026000079,
+      "image_path": "/media/2026/gallery/_DSC5695.JPG",
+      "caption": "AIFEST 2026 \u2014 80",
+      "alt": "AIFEST 2026 gallery photo 80",
+      "sort_order": 79
+    },
+    {
+      "id": 2026000080,
+      "image_path": "/media/2026/gallery/_DSC5726.JPG",
+      "caption": "AIFEST 2026 \u2014 81",
+      "alt": "AIFEST 2026 gallery photo 81",
+      "sort_order": 80
+    },
+    {
+      "id": 2026000081,
+      "image_path": "/media/2026/gallery/_DSC5735.JPG",
+      "caption": "AIFEST 2026 \u2014 82",
+      "alt": "AIFEST 2026 gallery photo 82",
+      "sort_order": 81
+    },
+    {
+      "id": 2026000082,
+      "image_path": "/media/2026/gallery/_DSC5736.JPG",
+      "caption": "AIFEST 2026 \u2014 83",
+      "alt": "AIFEST 2026 gallery photo 83",
+      "sort_order": 82
+    },
+    {
+      "id": 2026000083,
+      "image_path": "/media/2026/gallery/_DSC5737.JPG",
+      "caption": "AIFEST 2026 \u2014 84",
+      "alt": "AIFEST 2026 gallery photo 84",
+      "sort_order": 83
+    },
+    {
+      "id": 2026000084,
+      "image_path": "/media/2026/gallery/_DSC5740.JPG",
+      "caption": "AIFEST 2026 \u2014 85",
+      "alt": "AIFEST 2026 gallery photo 85",
+      "sort_order": 84
+    },
+    {
+      "id": 2026000085,
+      "image_path": "/media/2026/gallery/_DSC5743.JPG",
+      "caption": "AIFEST 2026 \u2014 86",
+      "alt": "AIFEST 2026 gallery photo 86",
+      "sort_order": 85
+    },
+    {
+      "id": 2026000086,
+      "image_path": "/media/2026/gallery/_DSC5744.JPG",
+      "caption": "AIFEST 2026 \u2014 87",
+      "alt": "AIFEST 2026 gallery photo 87",
+      "sort_order": 86
+    },
+    {
+      "id": 2026000087,
+      "image_path": "/media/2026/gallery/_DSC5750.JPG",
+      "caption": "AIFEST 2026 \u2014 88",
+      "alt": "AIFEST 2026 gallery photo 88",
+      "sort_order": 87
+    },
+    {
+      "id": 2026000088,
+      "image_path": "/media/2026/gallery/_DSC5754.JPG",
+      "caption": "AIFEST 2026 \u2014 89",
+      "alt": "AIFEST 2026 gallery photo 89",
+      "sort_order": 88
+    },
+    {
+      "id": 2026000089,
+      "image_path": "/media/2026/gallery/_DSC5756.JPG",
+      "caption": "AIFEST 2026 \u2014 90",
+      "alt": "AIFEST 2026 gallery photo 90",
+      "sort_order": 89
+    },
+    {
+      "id": 2026000090,
+      "image_path": "/media/2026/gallery/_DSC5760.JPG",
+      "caption": "AIFEST 2026 \u2014 91",
+      "alt": "AIFEST 2026 gallery photo 91",
+      "sort_order": 90
+    },
+    {
+      "id": 2026000091,
+      "image_path": "/media/2026/gallery/_DSC5767.JPG",
+      "caption": "AIFEST 2026 \u2014 92",
+      "alt": "AIFEST 2026 gallery photo 92",
+      "sort_order": 91
+    },
+    {
+      "id": 2026000092,
+      "image_path": "/media/2026/gallery/_DSC5769.JPG",
+      "caption": "AIFEST 2026 \u2014 93",
+      "alt": "AIFEST 2026 gallery photo 93",
+      "sort_order": 92
+    },
+    {
+      "id": 2026000093,
+      "image_path": "/media/2026/gallery/_DSC5772.JPG",
+      "caption": "AIFEST 2026 \u2014 94",
+      "alt": "AIFEST 2026 gallery photo 94",
+      "sort_order": 93
+    },
+    {
+      "id": 2026000094,
+      "image_path": "/media/2026/gallery/_DSC5782.JPG",
+      "caption": "AIFEST 2026 \u2014 95",
+      "alt": "AIFEST 2026 gallery photo 95",
+      "sort_order": 94
+    },
+    {
+      "id": 2026000095,
+      "image_path": "/media/2026/gallery/_DSC5788.JPG",
+      "caption": "AIFEST 2026 \u2014 96",
+      "alt": "AIFEST 2026 gallery photo 96",
+      "sort_order": 95
+    },
+    {
+      "id": 2026000096,
+      "image_path": "/media/2026/gallery/_DSC5789.JPG",
+      "caption": "AIFEST 2026 \u2014 97",
+      "alt": "AIFEST 2026 gallery photo 97",
+      "sort_order": 96
+    },
+    {
+      "id": 2026000097,
+      "image_path": "/media/2026/gallery/_DSC5791.JPG",
+      "caption": "AIFEST 2026 \u2014 98",
+      "alt": "AIFEST 2026 gallery photo 98",
+      "sort_order": 97
+    },
+    {
+      "id": 2026000098,
+      "image_path": "/media/2026/gallery/_DSC5793.JPG",
+      "caption": "AIFEST 2026 \u2014 99",
+      "alt": "AIFEST 2026 gallery photo 99",
+      "sort_order": 98
+    },
+    {
+      "id": 2026000099,
+      "image_path": "/media/2026/gallery/_DSC5795.JPG",
+      "caption": "AIFEST 2026 \u2014 100",
+      "alt": "AIFEST 2026 gallery photo 100",
+      "sort_order": 99
+    },
+    {
+      "id": 2026000100,
+      "image_path": "/media/2026/gallery/_DSC5799.JPG",
+      "caption": "AIFEST 2026 \u2014 101",
+      "alt": "AIFEST 2026 gallery photo 101",
+      "sort_order": 100
+    },
+    {
+      "id": 2026000101,
+      "image_path": "/media/2026/gallery/_DSC5800.JPG",
+      "caption": "AIFEST 2026 \u2014 102",
+      "alt": "AIFEST 2026 gallery photo 102",
+      "sort_order": 101
+    },
+    {
+      "id": 2026000102,
+      "image_path": "/media/2026/gallery/_DSC5803.JPG",
+      "caption": "AIFEST 2026 \u2014 103",
+      "alt": "AIFEST 2026 gallery photo 103",
+      "sort_order": 102
+    },
+    {
+      "id": 2026000103,
+      "image_path": "/media/2026/gallery/_DSC5806.JPG",
+      "caption": "AIFEST 2026 \u2014 104",
+      "alt": "AIFEST 2026 gallery photo 104",
+      "sort_order": 103
+    },
+    {
+      "id": 2026000104,
+      "image_path": "/media/2026/gallery/_DSC5807.JPG",
+      "caption": "AIFEST 2026 \u2014 105",
+      "alt": "AIFEST 2026 gallery photo 105",
+      "sort_order": 104
+    },
+    {
+      "id": 2026000105,
+      "image_path": "/media/2026/gallery/_DSC5809.JPG",
+      "caption": "AIFEST 2026 \u2014 106",
+      "alt": "AIFEST 2026 gallery photo 106",
+      "sort_order": 105
+    },
+    {
+      "id": 2026000106,
+      "image_path": "/media/2026/gallery/_DSC5811.JPG",
+      "caption": "AIFEST 2026 \u2014 107",
+      "alt": "AIFEST 2026 gallery photo 107",
+      "sort_order": 106
+    },
+    {
+      "id": 2026000107,
+      "image_path": "/media/2026/gallery/_DSC5812.JPG",
+      "caption": "AIFEST 2026 \u2014 108",
+      "alt": "AIFEST 2026 gallery photo 108",
+      "sort_order": 107
+    },
+    {
+      "id": 2026000108,
+      "image_path": "/media/2026/gallery/_DSC5816.JPG",
+      "caption": "AIFEST 2026 \u2014 109",
+      "alt": "AIFEST 2026 gallery photo 109",
+      "sort_order": 108
+    },
+    {
+      "id": 2026000109,
+      "image_path": "/media/2026/gallery/_DSC5818.JPG",
+      "caption": "AIFEST 2026 \u2014 110",
+      "alt": "AIFEST 2026 gallery photo 110",
+      "sort_order": 109
+    },
+    {
+      "id": 2026000110,
+      "image_path": "/media/2026/gallery/_DSC5819.JPG",
+      "caption": "AIFEST 2026 \u2014 111",
+      "alt": "AIFEST 2026 gallery photo 111",
+      "sort_order": 110
+    },
+    {
+      "id": 2026000111,
+      "image_path": "/media/2026/gallery/_DSC5824.JPG",
+      "caption": "AIFEST 2026 \u2014 112",
+      "alt": "AIFEST 2026 gallery photo 112",
+      "sort_order": 111
+    },
+    {
+      "id": 2026000112,
+      "image_path": "/media/2026/gallery/_DSC5828.JPG",
+      "caption": "AIFEST 2026 \u2014 113",
+      "alt": "AIFEST 2026 gallery photo 113",
+      "sort_order": 112
+    },
+    {
+      "id": 2026000113,
+      "image_path": "/media/2026/gallery/_DSC5831.JPG",
+      "caption": "AIFEST 2026 \u2014 114",
+      "alt": "AIFEST 2026 gallery photo 114",
+      "sort_order": 113
+    },
+    {
+      "id": 2026000114,
+      "image_path": "/media/2026/gallery/_DSC5832.JPG",
+      "caption": "AIFEST 2026 \u2014 115",
+      "alt": "AIFEST 2026 gallery photo 115",
+      "sort_order": 114
+    },
+    {
+      "id": 2026000115,
+      "image_path": "/media/2026/gallery/_DSC5834.JPG",
+      "caption": "AIFEST 2026 \u2014 116",
+      "alt": "AIFEST 2026 gallery photo 116",
+      "sort_order": 115
+    },
+    {
+      "id": 2026000116,
+      "image_path": "/media/2026/gallery/_DSC5835.JPG",
+      "caption": "AIFEST 2026 \u2014 117",
+      "alt": "AIFEST 2026 gallery photo 117",
+      "sort_order": 116
+    },
+    {
+      "id": 2026000117,
+      "image_path": "/media/2026/gallery/_DSC5837.JPG",
+      "caption": "AIFEST 2026 \u2014 118",
+      "alt": "AIFEST 2026 gallery photo 118",
+      "sort_order": 117
+    },
+    {
+      "id": 2026000118,
+      "image_path": "/media/2026/gallery/_DSC5840.JPG",
+      "caption": "AIFEST 2026 \u2014 119",
+      "alt": "AIFEST 2026 gallery photo 119",
+      "sort_order": 118
+    },
+    {
+      "id": 2026000119,
+      "image_path": "/media/2026/gallery/_DSC5844.JPG",
+      "caption": "AIFEST 2026 \u2014 120",
+      "alt": "AIFEST 2026 gallery photo 120",
+      "sort_order": 119
+    },
+    {
+      "id": 2026000120,
+      "image_path": "/media/2026/gallery/_DSC5846.JPG",
+      "caption": "AIFEST 2026 \u2014 121",
+      "alt": "AIFEST 2026 gallery photo 121",
+      "sort_order": 120
+    },
+    {
+      "id": 2026000121,
+      "image_path": "/media/2026/gallery/_DSC5847.JPG",
+      "caption": "AIFEST 2026 \u2014 122",
+      "alt": "AIFEST 2026 gallery photo 122",
+      "sort_order": 121
+    },
+    {
+      "id": 2026000122,
+      "image_path": "/media/2026/gallery/_DSC5848.JPG",
+      "caption": "AIFEST 2026 \u2014 123",
+      "alt": "AIFEST 2026 gallery photo 123",
+      "sort_order": 122
+    },
+    {
+      "id": 2026000123,
+      "image_path": "/media/2026/gallery/_DSC5849.JPG",
+      "caption": "AIFEST 2026 \u2014 124",
+      "alt": "AIFEST 2026 gallery photo 124",
+      "sort_order": 123
+    },
+    {
+      "id": 2026000124,
+      "image_path": "/media/2026/gallery/_DSC5851.JPG",
+      "caption": "AIFEST 2026 \u2014 125",
+      "alt": "AIFEST 2026 gallery photo 125",
+      "sort_order": 124
+    },
+    {
+      "id": 2026000125,
+      "image_path": "/media/2026/gallery/_DSC5852.JPG",
+      "caption": "AIFEST 2026 \u2014 126",
+      "alt": "AIFEST 2026 gallery photo 126",
+      "sort_order": 125
+    },
+    {
+      "id": 2026000126,
+      "image_path": "/media/2026/gallery/_DSC5857.JPG",
+      "caption": "AIFEST 2026 \u2014 127",
+      "alt": "AIFEST 2026 gallery photo 127",
+      "sort_order": 126
+    },
+    {
+      "id": 2026000127,
+      "image_path": "/media/2026/gallery/_DSC5858.JPG",
+      "caption": "AIFEST 2026 \u2014 128",
+      "alt": "AIFEST 2026 gallery photo 128",
+      "sort_order": 127
+    },
+    {
+      "id": 2026000128,
+      "image_path": "/media/2026/gallery/_DSC5859.JPG",
+      "caption": "AIFEST 2026 \u2014 129",
+      "alt": "AIFEST 2026 gallery photo 129",
+      "sort_order": 128
+    },
+    {
+      "id": 2026000129,
+      "image_path": "/media/2026/gallery/_DSC5861.JPG",
+      "caption": "AIFEST 2026 \u2014 130",
+      "alt": "AIFEST 2026 gallery photo 130",
+      "sort_order": 129
+    },
+    {
+      "id": 2026000130,
+      "image_path": "/media/2026/gallery/_DSC5863.JPG",
+      "caption": "AIFEST 2026 \u2014 131",
+      "alt": "AIFEST 2026 gallery photo 131",
+      "sort_order": 130
+    },
+    {
+      "id": 2026000131,
+      "image_path": "/media/2026/gallery/_DSC5865.JPG",
+      "caption": "AIFEST 2026 \u2014 132",
+      "alt": "AIFEST 2026 gallery photo 132",
+      "sort_order": 131
+    },
+    {
+      "id": 2026000132,
+      "image_path": "/media/2026/gallery/_DSC5866.JPG",
+      "caption": "AIFEST 2026 \u2014 133",
+      "alt": "AIFEST 2026 gallery photo 133",
+      "sort_order": 132
+    },
+    {
+      "id": 2026000133,
+      "image_path": "/media/2026/gallery/_DSC5871.JPG",
+      "caption": "AIFEST 2026 \u2014 134",
+      "alt": "AIFEST 2026 gallery photo 134",
+      "sort_order": 133
+    },
+    {
+      "id": 2026000134,
+      "image_path": "/media/2026/gallery/_DSC5872.JPG",
+      "caption": "AIFEST 2026 \u2014 135",
+      "alt": "AIFEST 2026 gallery photo 135",
+      "sort_order": 134
+    },
+    {
+      "id": 2026000135,
+      "image_path": "/media/2026/gallery/_DSC5875.JPG",
+      "caption": "AIFEST 2026 \u2014 136",
+      "alt": "AIFEST 2026 gallery photo 136",
+      "sort_order": 135
+    },
+    {
+      "id": 2026000136,
+      "image_path": "/media/2026/gallery/_DSC5876.JPG",
+      "caption": "AIFEST 2026 \u2014 137",
+      "alt": "AIFEST 2026 gallery photo 137",
+      "sort_order": 136
+    },
+    {
+      "id": 2026000137,
+      "image_path": "/media/2026/gallery/_DSC5878.JPG",
+      "caption": "AIFEST 2026 \u2014 138",
+      "alt": "AIFEST 2026 gallery photo 138",
+      "sort_order": 137
+    },
+    {
+      "id": 2026000138,
+      "image_path": "/media/2026/gallery/_DSC5881.JPG",
+      "caption": "AIFEST 2026 \u2014 139",
+      "alt": "AIFEST 2026 gallery photo 139",
+      "sort_order": 138
+    },
+    {
+      "id": 2026000139,
+      "image_path": "/media/2026/gallery/_DSC5882.JPG",
+      "caption": "AIFEST 2026 \u2014 140",
+      "alt": "AIFEST 2026 gallery photo 140",
+      "sort_order": 139
+    },
+    {
+      "id": 2026000140,
+      "image_path": "/media/2026/gallery/_DSC5883.JPG",
+      "caption": "AIFEST 2026 \u2014 141",
+      "alt": "AIFEST 2026 gallery photo 141",
+      "sort_order": 140
+    },
+    {
+      "id": 2026000141,
+      "image_path": "/media/2026/gallery/_DSC5888.JPG",
+      "caption": "AIFEST 2026 \u2014 142",
+      "alt": "AIFEST 2026 gallery photo 142",
+      "sort_order": 141
+    },
+    {
+      "id": 2026000142,
+      "image_path": "/media/2026/gallery/_DSC5889.JPG",
+      "caption": "AIFEST 2026 \u2014 143",
+      "alt": "AIFEST 2026 gallery photo 143",
+      "sort_order": 142
+    },
+    {
+      "id": 2026000143,
+      "image_path": "/media/2026/gallery/_DSC5890.JPG",
+      "caption": "AIFEST 2026 \u2014 144",
+      "alt": "AIFEST 2026 gallery photo 144",
+      "sort_order": 143
+    },
+    {
+      "id": 2026000144,
+      "image_path": "/media/2026/gallery/_DSC5894.JPG",
+      "caption": "AIFEST 2026 \u2014 145",
+      "alt": "AIFEST 2026 gallery photo 145",
+      "sort_order": 144
+    },
+    {
+      "id": 2026000145,
+      "image_path": "/media/2026/gallery/_DSC5895.JPG",
+      "caption": "AIFEST 2026 \u2014 146",
+      "alt": "AIFEST 2026 gallery photo 146",
+      "sort_order": 145
+    },
+    {
+      "id": 2026000146,
+      "image_path": "/media/2026/gallery/_DSC5896.JPG",
+      "caption": "AIFEST 2026 \u2014 147",
+      "alt": "AIFEST 2026 gallery photo 147",
+      "sort_order": 146
+    },
+    {
+      "id": 2026000147,
+      "image_path": "/media/2026/gallery/_DSC5897.JPG",
+      "caption": "AIFEST 2026 \u2014 148",
+      "alt": "AIFEST 2026 gallery photo 148",
+      "sort_order": 147
+    },
+    {
+      "id": 2026000148,
+      "image_path": "/media/2026/gallery/_DSC5902.JPG",
+      "caption": "AIFEST 2026 \u2014 149",
+      "alt": "AIFEST 2026 gallery photo 149",
+      "sort_order": 148
+    },
+    {
+      "id": 2026000149,
+      "image_path": "/media/2026/gallery/_DSC5905.JPG",
+      "caption": "AIFEST 2026 \u2014 150",
+      "alt": "AIFEST 2026 gallery photo 150",
+      "sort_order": 149
+    },
+    {
+      "id": 2026000150,
+      "image_path": "/media/2026/gallery/_DSC5907.JPG",
+      "caption": "AIFEST 2026 \u2014 151",
+      "alt": "AIFEST 2026 gallery photo 151",
+      "sort_order": 150
+    },
+    {
+      "id": 2026000151,
+      "image_path": "/media/2026/gallery/_DSC5911.JPG",
+      "caption": "AIFEST 2026 \u2014 152",
+      "alt": "AIFEST 2026 gallery photo 152",
+      "sort_order": 151
+    },
+    {
+      "id": 2026000152,
+      "image_path": "/media/2026/gallery/_DSC5912.JPG",
+      "caption": "AIFEST 2026 \u2014 153",
+      "alt": "AIFEST 2026 gallery photo 153",
+      "sort_order": 152
+    },
+    {
+      "id": 2026000153,
+      "image_path": "/media/2026/gallery/_DSC5919.JPG",
+      "caption": "AIFEST 2026 \u2014 154",
+      "alt": "AIFEST 2026 gallery photo 154",
+      "sort_order": 153
+    },
+    {
+      "id": 2026000154,
+      "image_path": "/media/2026/gallery/_DSC5920.JPG",
+      "caption": "AIFEST 2026 \u2014 155",
+      "alt": "AIFEST 2026 gallery photo 155",
+      "sort_order": 154
+    },
+    {
+      "id": 2026000155,
+      "image_path": "/media/2026/gallery/_DSC5921.JPG",
+      "caption": "AIFEST 2026 \u2014 156",
+      "alt": "AIFEST 2026 gallery photo 156",
+      "sort_order": 155
+    },
+    {
+      "id": 2026000156,
+      "image_path": "/media/2026/gallery/_DSC5922.JPG",
+      "caption": "AIFEST 2026 \u2014 157",
+      "alt": "AIFEST 2026 gallery photo 157",
+      "sort_order": 156
+    },
+    {
+      "id": 2026000157,
+      "image_path": "/media/2026/gallery/_DSC5923.JPG",
+      "caption": "AIFEST 2026 \u2014 158",
+      "alt": "AIFEST 2026 gallery photo 158",
+      "sort_order": 157
+    },
+    {
+      "id": 2026000158,
+      "image_path": "/media/2026/gallery/_DSC5925.JPG",
+      "caption": "AIFEST 2026 \u2014 159",
+      "alt": "AIFEST 2026 gallery photo 159",
+      "sort_order": 158
+    },
+    {
+      "id": 2026000159,
+      "image_path": "/media/2026/gallery/_DSC5926.JPG",
+      "caption": "AIFEST 2026 \u2014 160",
+      "alt": "AIFEST 2026 gallery photo 160",
+      "sort_order": 159
+    },
+    {
+      "id": 2026000160,
+      "image_path": "/media/2026/gallery/_DSC5928.JPG",
+      "caption": "AIFEST 2026 \u2014 161",
+      "alt": "AIFEST 2026 gallery photo 161",
+      "sort_order": 160
+    },
+    {
+      "id": 2026000161,
+      "image_path": "/media/2026/gallery/_DSC5932.JPG",
+      "caption": "AIFEST 2026 \u2014 162",
+      "alt": "AIFEST 2026 gallery photo 162",
+      "sort_order": 161
+    },
+    {
+      "id": 2026000162,
+      "image_path": "/media/2026/gallery/_DSC5936.JPG",
+      "caption": "AIFEST 2026 \u2014 163",
+      "alt": "AIFEST 2026 gallery photo 163",
+      "sort_order": 162
+    },
+    {
+      "id": 2026000163,
+      "image_path": "/media/2026/gallery/_DSC5937.JPG",
+      "caption": "AIFEST 2026 \u2014 164",
+      "alt": "AIFEST 2026 gallery photo 164",
+      "sort_order": 163
+    },
+    {
+      "id": 2026000164,
+      "image_path": "/media/2026/gallery/_DSC5940.JPG",
+      "caption": "AIFEST 2026 \u2014 165",
+      "alt": "AIFEST 2026 gallery photo 165",
+      "sort_order": 164
+    },
+    {
+      "id": 2026000165,
+      "image_path": "/media/2026/gallery/_DSC5943.JPG",
+      "caption": "AIFEST 2026 \u2014 166",
+      "alt": "AIFEST 2026 gallery photo 166",
+      "sort_order": 165
+    },
+    {
+      "id": 2026000166,
+      "image_path": "/media/2026/gallery/_DSC5945.JPG",
+      "caption": "AIFEST 2026 \u2014 167",
+      "alt": "AIFEST 2026 gallery photo 167",
+      "sort_order": 166
+    },
+    {
+      "id": 2026000167,
+      "image_path": "/media/2026/gallery/_DSC5947.JPG",
+      "caption": "AIFEST 2026 \u2014 168",
+      "alt": "AIFEST 2026 gallery photo 168",
+      "sort_order": 167
+    },
+    {
+      "id": 2026000168,
+      "image_path": "/media/2026/gallery/_DSC5948.JPG",
+      "caption": "AIFEST 2026 \u2014 169",
+      "alt": "AIFEST 2026 gallery photo 169",
+      "sort_order": 168
+    },
+    {
+      "id": 2026000169,
+      "image_path": "/media/2026/gallery/_DSC5949.JPG",
+      "caption": "AIFEST 2026 \u2014 170",
+      "alt": "AIFEST 2026 gallery photo 170",
+      "sort_order": 169
+    },
+    {
+      "id": 2026000170,
+      "image_path": "/media/2026/gallery/_DSC5950.JPG",
+      "caption": "AIFEST 2026 \u2014 171",
+      "alt": "AIFEST 2026 gallery photo 171",
+      "sort_order": 170
+    },
+    {
+      "id": 2026000171,
+      "image_path": "/media/2026/gallery/_DSC5951.JPG",
+      "caption": "AIFEST 2026 \u2014 172",
+      "alt": "AIFEST 2026 gallery photo 172",
+      "sort_order": 171
+    },
+    {
+      "id": 2026000172,
+      "image_path": "/media/2026/gallery/_DSC5952.JPG",
+      "caption": "AIFEST 2026 \u2014 173",
+      "alt": "AIFEST 2026 gallery photo 173",
+      "sort_order": 172
+    },
+    {
+      "id": 2026000173,
+      "image_path": "/media/2026/gallery/_DSC5959.JPG",
+      "caption": "AIFEST 2026 \u2014 174",
+      "alt": "AIFEST 2026 gallery photo 174",
+      "sort_order": 173
+    },
+    {
+      "id": 2026000174,
+      "image_path": "/media/2026/gallery/_DSC5960.JPG",
+      "caption": "AIFEST 2026 \u2014 175",
+      "alt": "AIFEST 2026 gallery photo 175",
+      "sort_order": 174
+    },
+    {
+      "id": 2026000175,
+      "image_path": "/media/2026/gallery/_DSC5963.JPG",
+      "caption": "AIFEST 2026 \u2014 176",
+      "alt": "AIFEST 2026 gallery photo 176",
+      "sort_order": 175
+    },
+    {
+      "id": 2026000176,
+      "image_path": "/media/2026/gallery/_DSC5965.JPG",
+      "caption": "AIFEST 2026 \u2014 177",
+      "alt": "AIFEST 2026 gallery photo 177",
+      "sort_order": 176
+    },
+    {
+      "id": 2026000177,
+      "image_path": "/media/2026/gallery/_DSC5968.JPG",
+      "caption": "AIFEST 2026 \u2014 178",
+      "alt": "AIFEST 2026 gallery photo 178",
+      "sort_order": 177
+    },
+    {
+      "id": 2026000178,
+      "image_path": "/media/2026/gallery/_DSC5969.JPG",
+      "caption": "AIFEST 2026 \u2014 179",
+      "alt": "AIFEST 2026 gallery photo 179",
+      "sort_order": 178
+    },
+    {
+      "id": 2026000179,
+      "image_path": "/media/2026/gallery/_DSC5970.JPG",
+      "caption": "AIFEST 2026 \u2014 180",
+      "alt": "AIFEST 2026 gallery photo 180",
+      "sort_order": 179
+    },
+    {
+      "id": 2026000180,
+      "image_path": "/media/2026/gallery/_DSC5973.JPG",
+      "caption": "AIFEST 2026 \u2014 181",
+      "alt": "AIFEST 2026 gallery photo 181",
+      "sort_order": 180
+    },
+    {
+      "id": 2026000181,
+      "image_path": "/media/2026/gallery/_DSC5975.JPG",
+      "caption": "AIFEST 2026 \u2014 182",
+      "alt": "AIFEST 2026 gallery photo 182",
+      "sort_order": 181
+    },
+    {
+      "id": 2026000182,
+      "image_path": "/media/2026/gallery/_DSC5976.JPG",
+      "caption": "AIFEST 2026 \u2014 183",
+      "alt": "AIFEST 2026 gallery photo 183",
+      "sort_order": 182
+    },
+    {
+      "id": 2026000183,
+      "image_path": "/media/2026/gallery/_DSC5979.JPG",
+      "caption": "AIFEST 2026 \u2014 184",
+      "alt": "AIFEST 2026 gallery photo 184",
+      "sort_order": 183
+    },
+    {
+      "id": 2026000184,
+      "image_path": "/media/2026/gallery/_DSC5983.JPG",
+      "caption": "AIFEST 2026 \u2014 185",
+      "alt": "AIFEST 2026 gallery photo 185",
+      "sort_order": 184
+    },
+    {
+      "id": 2026000185,
+      "image_path": "/media/2026/gallery/_DSC5984.JPG",
+      "caption": "AIFEST 2026 \u2014 186",
+      "alt": "AIFEST 2026 gallery photo 186",
+      "sort_order": 185
+    },
+    {
+      "id": 2026000186,
+      "image_path": "/media/2026/gallery/_DSC5986.JPG",
+      "caption": "AIFEST 2026 \u2014 187",
+      "alt": "AIFEST 2026 gallery photo 187",
+      "sort_order": 186
+    },
+    {
+      "id": 2026000187,
+      "image_path": "/media/2026/gallery/_DSC5990.JPG",
+      "caption": "AIFEST 2026 \u2014 188",
+      "alt": "AIFEST 2026 gallery photo 188",
+      "sort_order": 187
+    },
+    {
+      "id": 2026000188,
+      "image_path": "/media/2026/gallery/_DSC5993.JPG",
+      "caption": "AIFEST 2026 \u2014 189",
+      "alt": "AIFEST 2026 gallery photo 189",
+      "sort_order": 188
+    },
+    {
+      "id": 2026000189,
+      "image_path": "/media/2026/gallery/_DSC5996.JPG",
+      "caption": "AIFEST 2026 \u2014 190",
+      "alt": "AIFEST 2026 gallery photo 190",
+      "sort_order": 189
+    },
+    {
+      "id": 2026000190,
+      "image_path": "/media/2026/gallery/_DSC6002.JPG",
+      "caption": "AIFEST 2026 \u2014 191",
+      "alt": "AIFEST 2026 gallery photo 191",
+      "sort_order": 190
+    },
+    {
+      "id": 2026000191,
+      "image_path": "/media/2026/gallery/_DSC6006.JPG",
+      "caption": "AIFEST 2026 \u2014 192",
+      "alt": "AIFEST 2026 gallery photo 192",
+      "sort_order": 191
+    },
+    {
+      "id": 2026000192,
+      "image_path": "/media/2026/gallery/_DSC6027.JPG",
+      "caption": "AIFEST 2026 \u2014 193",
+      "alt": "AIFEST 2026 gallery photo 193",
+      "sort_order": 192
+    },
+    {
+      "id": 2026000193,
+      "image_path": "/media/2026/gallery/_DSC6028.JPG",
+      "caption": "AIFEST 2026 \u2014 194",
+      "alt": "AIFEST 2026 gallery photo 194",
+      "sort_order": 193
+    },
+    {
+      "id": 2026000194,
+      "image_path": "/media/2026/gallery/_DSC6029.JPG",
+      "caption": "AIFEST 2026 \u2014 195",
+      "alt": "AIFEST 2026 gallery photo 195",
+      "sort_order": 194
+    },
+    {
+      "id": 2026000195,
+      "image_path": "/media/2026/gallery/_DSC6050.JPG",
+      "caption": "AIFEST 2026 \u2014 196",
+      "alt": "AIFEST 2026 gallery photo 196",
+      "sort_order": 195
+    },
+    {
+      "id": 2026000196,
+      "image_path": "/media/2026/gallery/_DSC6062.JPG",
+      "caption": "AIFEST 2026 \u2014 197",
+      "alt": "AIFEST 2026 gallery photo 197",
+      "sort_order": 196
+    },
+    {
+      "id": 2026000197,
+      "image_path": "/media/2026/gallery/_DSC6205.JPG",
+      "caption": "AIFEST 2026 \u2014 198",
+      "alt": "AIFEST 2026 gallery photo 198",
+      "sort_order": 197
+    },
+    {
+      "id": 2026000198,
+      "image_path": "/media/2026/gallery/_DSC6218.JPG",
+      "caption": "AIFEST 2026 \u2014 199",
+      "alt": "AIFEST 2026 gallery photo 199",
+      "sort_order": 198
+    },
+    {
+      "id": 2026000199,
+      "image_path": "/media/2026/gallery/kiran.JPG",
+      "caption": "AIFEST 2026 \u2014 200",
+      "alt": "AIFEST 2026 gallery photo 200",
+      "sort_order": 199
+    }
+  ],
+  "team": [
+    {
+      "id": "ca-2026-004",
+      "name": "Nantume Iman Makumbi",
+      "role": "Campus Ambassador",
+      "category": "campus_ambassador",
+      "university": "ISBAT University",
+      "image_path": "/media/2026/team/iman.jpeg",
+      "bio": "AI and Machine Learning Year 1 student at ISBAT University. Minister of Education and Current Affairs in Guild Cabinet, passionate about making AI accessible to everyone.",
+      "email": "nantumeiman@gmail.com",
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "ca-2026-005",
+      "name": "Abaho Abel Kambona",
+      "role": "Campus Ambassador",
+      "category": "campus_ambassador",
+      "university": "Kyambogo University",
+      "image_path": "/media/2026/team/abahoi.jpeg",
+      "bio": "Bachelor's of Information Technology and Computing student at Kyambogo University. Part of GDG on Campus Makerere University, passionate about AI innovation and leadership development.",
+      "email": "abahoabel07@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/abel-abaho-b36a752a6/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "ca-2026-006",
+      "name": "Imalingat Brenda",
+      "role": "UTAMU",
+      "category": "campus_ambassador",
+      "university": "UTAMU",
+      "image_path": "/media/2026/team/brenda.jpeg",
+      "bio": "Computer Science Year 3 student at UTAMU. Part of GDG UTAMU with experience organizing tech events including Zindi Data Fest.",
+      "email": "missardent1@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/imalingat-brenda-439b14300/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "ca-2026-007",
+      "name": "Byaruhanga Daniel",
+      "role": "Kampala Internation University",
+      "category": "campus_ambassador",
+      "university": "Kampala International University (KIU)",
+      "image_path": "/media/2026/team/daniel.jpeg",
+      "bio": "Year 2 student at KIU. Passionate about impacting community and contributing to the next generation of tech leaders.",
+      "email": "byaruhangadaniel89@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/byaruhanga-daniel-9bb281260/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "ca-2026-008",
+      "name": "Butera Marcel",
+      "role": "UTAMU",
+      "category": "campus_ambassador",
+      "university": "UTAMU",
+      "image_path": "/media/2026/team/mercel.jpeg",
+      "bio": "Software Engineering Year 2 student at UTAMU. GDG Co-Lead UTAMU and UTAMU Innovation Club member. Experienced campus ambassador for IEEE TechX, Aerobuddies AVIATHON, and IBM Datathon 2025.",
+      "email": "butera.marcel@student.utamu.ac.ug",
+      "linkedin": "https://www.linkedin.com/in/butera-marcel-68368a32b/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "ca-2026-009",
+      "name": "Asiimwe Tracy Treza",
+      "role": "ISBAT",
+      "category": "campus_ambassador",
+      "university": "ISBAT University",
+      "image_path": "/media/2026/team/tracy.jpeg",
+      "bio": "AI and Machine Learning Year 1 student at ISBAT University. Tech-focused content creator passionate about making AI accessible and building strong AI communities.",
+      "email": "asiimwetracy122@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/asiimwe-tracy-0282b9245/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-001",
+      "name": "Musiimenta Tendo Divine",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "Makerere University",
+      "image_path": "/media/2026/team/tendo2.jpeg",
+      "bio": "Student at Makerere University, pursuing a bachelor's degree in Software Engineering.",
+      "email": "divinepraise699@gmail.com",
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-002",
+      "name": "Benjamin Wakida",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "Makerere University Business School",
+      "image_path": "/media/2026/team/benji.jpeg",
+      "bio": "Business Computing student at Makerere University Business School, community builder and Web3 developer passionate about blockchain and AI-driven products. Actively involved in growing Web3 communities on campus.",
+      "email": "benwaeldon@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/benjamin-eldon-wakida",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-003",
+      "name": "Mugoya Hillarious",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/hillariaous.jpeg",
+      "bio": "IT and cybersecurity enthusiast with a strong focus on AI security, governance, and community-driven technology initiatives. Contributing member of the Cloud Security Alliance AI Safety Working Group, passionate about building safer, more inclusive digital ecosystems.",
+      "email": "mugoyahillarious@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mugoya-hillarious-b48499192/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-004",
+      "name": "Mugisha Trevour Jeanclaude",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_20250913_105719_219 - Mugisha Trevour Jeanclaude..jpg",
+      "bio": "Geomatics student with a strong interest in applying AI, GIS, and spatial data to solve real-world challenges. Passionate about geospatial innovation, smart mapping, and using technology to drive sustainable development.",
+      "email": "mugishatrevour12@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mugisha-trevour-jeanclaude",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-005",
+      "name": "Nasasira Seezi",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/1749968106001 - Nasasira Seezibella.jpg",
+      "bio": "Network Configuration & Security Management, IT Infrastructure & Server Administration, and Virtualization & Cloud Systems (VMware, Cisco).",
+      "email": "seezinasasira306@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/nasasira-seezibella-80aa2022a/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-006",
+      "name": "Asasira Arthur",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/arthur.jpeg",
+      "bio": "Environmentalist and tech community diehard.",
+      "email": "asasiraarthur@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/asasira-arthur-602a131ab",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-007",
+      "name": "Keith Tugume",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_20260203_094206_067 - Tugume Keith.jpg",
+      "bio": "Software engineering student junior year. Tennis addict.",
+      "email": "tugumekeith022@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/keithunt35",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-008",
+      "name": "Jjemba Emmanuel",
+      "role": "Community Engagement Lead",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_20251017_235123 - JJEMBA EMMANUEL.jpg",
+      "bio": "Community Engagement Lead.",
+      "email": "kalibobojoshua@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/jjemba-emmanuel-723110242",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-009",
+      "name": "Nuwe Bryant Nyero",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/Nuwe - Bryant Nyero Nuwe.webp",
+      "bio": "Software engineering student focused on data science by trade and a strategist at heart. Firm believer in the power of a well-executed plan. Off the clock, likely chasing a basketball or looking for the next challenge.",
+      "email": "nuwebryant@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/bryant-nuwe-06225a28a/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-010",
+      "name": "Asiimire Daphne",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_3946 - Asiimire Daphne.jpeg",
+      "bio": "Tech enthusiast passionate about AI, Machine Learning, and full-stack development. Enjoys building innovative solutions, contributing to developer communities, and volunteering at tech events. Driven by impact, creativity, and the vision of shaping Africa's digital future.",
+      "email": "dasiimire33@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/asiimire-daphne",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-011",
+      "name": "Bashir Kasujja",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG-20240318-WA0000 - Bashir Kasujja.jpg",
+      "bio": "Software Engineering enthusiast passionate about technology and tackling big challenges. Finds joy in the dynamic world of coding, always eager to learn and build meaningful projects. Thrives in problem-solving, combining creativity with innovative solutions.",
+      "email": "kasujjabash80@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/bashir-kasujja-290164257",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-012",
+      "name": "Birungi Angella Miriam",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "Mbarara University",
+      "image_path": "/media/2026/team/Miriam 01 - Miriam Birungi.jpg",
+      "bio": "Third-year Software Engineering student at Mbarara University. Passionate about growing young women in tech. Frontend developer and UI/UX designer.",
+      "email": "birungimiriam323@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/miriam-angella-birungi-498616283",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-013",
+      "name": "Bahati Brenda Kizito",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/bahati.jpeg",
+      "bio": "Software engineering student and problem-solver passionate about building impactful, scalable tech solutions. Focused on AI, data-driven systems, and real-world applications that solve local and global challenges.",
+      "email": "bahatibk72@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/bahati-brenda-kizito",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-014",
+      "name": "Asiimwe Tracy",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_4646 - Asiimwe Tracy.jpg",
+      "bio": "Less talk, more building. AI for real impact.",
+      "email": "asiimwetracy122@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/asiimwe-tracy-0282b9245",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-015",
+      "name": "Luutu Gregory Valentino",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_1201 - Gregory Luutu.jpg",
+      "bio": "Computer science student joining AI hackathon for the first time as both hacker and organizer. Excited about helping things run smoothly and supporting people during the event. Interested in AI and software, looking forward to learning and growing through organizing and building.",
+      "email": "luutugregory@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/gregory-luutu-188b90226",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "org-2026-017",
+      "name": "Winena Joann Jo",
+      "role": "Organizer",
+      "category": "organizer",
+      "university": "",
+      "image_path": "/media/2026/team/jo-1775570611667-vjg4pe.jpeg",
+      "bio": "Innovator, leader, researcher, Cybersecurity enthusiast, and STEM advocate. Currently serving as a coach at the mentorship class and the founder of Aedos.",
+      "email": "joannjow@gmail.com",
+      "linkedin": "",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": 1775568818272,
+      "name": "Tendo Sarah",
+      "role": "ISBAT University",
+      "category": "campus_ambassador",
+      "bio": "",
+      "image_path": "/media/2026/team/tendo.jpeg",
+      "linkedin": "https://www.linkedin.com/in/tendo-sarah-2890bb385/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775569374310,
+      "name": "Wanyana Esthersandra",
+      "role": "UICT",
+      "category": "campus_ambassador",
+      "bio": "Computer Science Year 2 student at UICT. Female in Tech lead with experience collaborating across innovation platforms.",
+      "image_path": "/media/2026/team/ester-1775570122895-992wix.jpeg",
+      "linkedin": "https://www.linkedin.com/in/wanyana-esthersandra-230a842b3/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775570631730,
+      "name": "Cleopatra Kanyunyuzi",
+      "role": "Founder Club Tangaza | Co-Founder and Director PinkCode Uganda",
+      "category": "judge",
+      "bio": "Cleopatra Kanyunyuzi is a visionary tech leader and social entrepreneur committed to building inclusive digital futures. She is the Founder and CEO of Club Tangaza, a pioneering platform equipping kids, teens, and beginners with coding, robotics and digital literacy skills; Founder and CEO of The Tangaza Charity Initiative, driving education and opportunity for underprivileged communities; and Co-Founder & Director of PinkCode Uganda, a digital transformation initiative empowering women and girls in technology.\n\nWith over a decade of experience in computer science, software engineering, and social innovation, Cleopatra is recognized globally as a Tech and Impact Strategist, Speaker, and Advocate for Digital Inclusion. She is passionate about leveraging emerging technologies AI, data, and digital transformation to bridge the gap between academia and industry, unlock economic growth, and ensure that women, youth, and underserved communities are not left behind in the digital revolution.\n\nThrough her ventures and thought leadership, she is shaping the next generation of engineers, innovators, and changemakers while partnering with global organizations to scale solutions that combine profit with purpose.\n\nCleopatra is available for global collaborations, strategic partnerships, speaking engagements, and initiatives that align technology with social impact and inclusion.",
+      "image_path": "/media/2026/team/27bf057a-970e-4666-a0f4-8e84c97b1983_20260321_1245-1775638694158-fdrzdc.jpg",
+      "linkedin": "https://www.linkedin.com/in/cleopatra-kanyunyuzi-632b38189/",
+      "twitter": "",
+      "email": "kanyunyuzicleo@gmail.com"
+    },
+    {
+      "id": "speaker-2026-003",
+      "name": "Makmot Johnson",
+      "role": "Full Stack Developer & Founder Renegade",
+      "category": "mentor",
+      "university": "",
+      "image_path": "/media/2026/team/devj-1775638299345-tvq4h7.jpeg",
+      "bio": "Founder at Renegade. Full stack developer specializing in Web3 development.",
+      "email": "jmakmot51@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/makmot256/",
+      "twitter": "https://twitter.com/JohnsonMakmot",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "speaker-2026-004",
+      "name": "Wes Kambale",
+      "role": "ML Engineer & Google Developer Expert in AI",
+      "category": "mentor",
+      "university": "",
+      "image_path": "/media/2026/team/wes_avator_22-Wesley-Kambale-1775638308762-s5tqmb.png",
+      "bio": "Machine learning engineer and Google Developer Expert in AI, adept at crafting production-ready ML systems that provide impactful solutions in the African market.",
+      "email": "spartanwk@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/weskambale/overlay/contact-info/",
+      "twitter": "https://twitter.com/weskambale",
+      "github": "",
+      "portfolio": "https://kambale.dev/"
+    },
+    {
+      "id": "speaker-2026-005",
+      "name": "Nasasira Daniel",
+      "role": "Software Engineer",
+      "category": "speaker",
+      "university": "",
+      "image_path": "/media/2026/team/photo-2-NASASIRA-DANIEL-1775638476546-wyi3qj.png",
+      "bio": "Background in software development and data analysis, currently working at the intersection of data, blockchain infrastructure, and emerging technologies.",
+      "email": "nasasirad92@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/nasasira-daniel/",
+      "twitter": "https://x.com/nasasira_daniel",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "speaker-2026-006",
+      "name": "Gilbert Yiga",
+      "role": "Software Engineer at Sunbird AI",
+      "category": "judge",
+      "university": "",
+      "image_path": "/media/2026/team/gil_head-shot-YIGA-GILBERT-1775638497450-d01k91.jpeg",
+      "bio": "Machine Learning Engineer and Software developer from Kampala, Uganda, specializing in multilingual AI, natural language processing, and speech technologies for low-resource African languages. Experience building production-ready AI systems for translation, speech recognition, and data-driven applications.",
+      "email": "gilbertyiga15@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/yigagilbert/",
+      "twitter": "https://x.com/gilbert_yiga_",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "mentor-2026-001",
+      "name": "Ahimbisibwe Brian",
+      "role": "Community Manager Chainlink East Africa",
+      "category": "judge",
+      "university": "",
+      "image_path": "/media/2026/team/IMG_4152-Ahimbisibwe-Brian-1775638512475-qommsc.jpg",
+      "bio": "Chainlink EA Community Lead, passionate about emerging technologies AI and Blockchain.",
+      "email": "ahimbisibwebrian96@gmail.com",
+      "linkedin": "",
+      "twitter": "https://twitter.com/ahimbis07260494",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "mentor-2026-002",
+      "name": "Mwanje Ronnie",
+      "role": "Web Developer & Cursor Ambassador",
+      "category": "speaker",
+      "university": "",
+      "image_path": "/media/2026/team/me-Ronnie-Mwanje-1775638560865-i5el6c.jpeg",
+      "bio": "Web3 and AI Enthusiast, Cursor Ambassador.",
+      "email": "ronniemwanje94@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/mwanjeronnie/",
+      "twitter": "https://x.com/mwanje_ronnie1",
+      "github": "",
+      "portfolio": ""
+    },
+    {
+      "id": "mentor-2026-003",
+      "name": "Pius Kevin Mafabi",
+      "role": "Mentor",
+      "category": "mentor",
+      "university": "",
+      "image_path": "/media/2026/team/WhatsApp-Image-2026-04-07-at-4-01-55-PM-1775638627493-knefdw.jpeg",
+      "bio": "Google Developer Expert",
+      "email": "",
+      "linkedin": "https://www.linkedin.com/in/pius-kevin-mafabi-732b1087/",
+      "twitter": "",
+      "github": "",
+      "portfolio": ""
+    }
+  ]
+}

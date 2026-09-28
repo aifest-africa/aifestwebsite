@@ -1,0 +1,543 @@
+{
+  "year": 2025,
+  "slug": "2025",
+  "published": true,
+  "featured": false,
+  "heroTitle": "AIFEST 2025",
+  "heroSubtitle": "Innovate for Impact: AI Solutions for a Sustainable Uganda, the first nationwide student AI hackathon.",
+  "heroImages": [],
+  "heroImage": "/media/2025/aifest2025.png",
+  "title": "Inter University Hackathon 2025",
+  "summary": "The first nationwide AI hackathon bringing together students from 29 universities to solve pressing local challenges under the theme 'Innovate for Impact'.",
+  "themes": [
+    "AI for Good",
+    "Sustainable Development Goals (SDGs)",
+    "Social Impact",
+    "Climate Action"
+  ],
+  "outcomes": [
+    "Democratizing AI access across Ugandan universities",
+    "Fostering cross campus collaboration",
+    "Creating production ready AI solutions"
+  ],
+  "statistics": {
+    "participants": 254,
+    "universities": 29,
+    "projects": 65,
+    "countries": 3,
+    "partners": 10,
+    "prizePool": 3000000
+  },
+  "impactReportUrl": "/media/2025/reports/AIFest Report 2025.pdf",
+  "impactReportPreview": "/media/2025/reports/reportpreview.png",
+  "sponsorshipDeckUrl": "/media/2025/decks/AIFest 2025 Proposal.pdf",
+  "sponsorshipDeckPreview": "/media/2025/decks/proposal-preview.png",
+  "sponsorshipDeckLabel": "Hackathon Proposal",
+  "infoSessionDeckUrl": "/media/2025/decks/AIFest 2025 Slides.pdf",
+  "infoSessionDeckPreview": "/media/2025/decks/slides-preview.png",
+  "infoSessionDeckLabel": "Event Slides",
+  "collegeEndorsementUrl": "/media/2025/decks/AIFest 2025 College Endorsement.pdf",
+  "reportHighlights": [
+    "254+ Expressions of Interest collected from across the region",
+    "Representatives from 29 Institutions participated",
+    "Total Prize Pool of UGX 3,000,000",
+    "Included participants from Uganda, Rwanda, and India",
+    "Focus on Social Good and Climate Action"
+  ],
+  "winners": [
+    {
+      "name": "Intelli Gents",
+      "team": "Intelli Gents",
+      "track": "1st Place Overall Excellence",
+      "prize": 1500000,
+      "project": "Lingomeet, an AI app that transcribes and structures online lectures to improve access to quality education",
+      "placement": 1
+    },
+    {
+      "name": "Bro Code Labs",
+      "team": "Bro Code Labs",
+      "track": "2nd Place Overall Excellence",
+      "prize": 1000000,
+      "project": "Dr. Chat, an AI chatbot offering instant, SMS based medical guidance in underserved rural communities",
+      "placement": 2
+    },
+    {
+      "name": "ClyCites",
+      "team": "ClyCites",
+      "track": "3rd Place Overall Excellence",
+      "prize": 500000,
+      "project": "PricePulse AI, a real time market price tracking and prediction platform",
+      "placement": 3
+    }
+  ],
+  "partners": [
+    {
+      "name": "GDG on Campus",
+      "logo": "/media/shared/partners/gdg.png",
+      "href": "https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/"
+    },
+    {
+      "name": "AmaliTech",
+      "logo": "/media/shared/partners/amalitech.png",
+      "href": "https://amalitech.com/"
+    },
+    {
+      "name": "MIIC Hub",
+      "logo": "/media/shared/partners/miic.png",
+      "href": "https://miichub.com/"
+    },
+    {
+      "name": "Makerere University",
+      "logo": "/media/shared/partners/makerereUniversity.png",
+      "href": "https://mak.ac.ug/"
+    },
+    {
+      "name": "Microsoft Student Ambassadors",
+      "logo": "/media/shared/partners/microsoft.png",
+      "href": "https://mvp.microsoft.com/studentambassadors?program=MLSA"
+    },
+    {
+      "name": "GitHub",
+      "logo": "/media/shared/partners/github.png",
+      "href": "https://githubcampus.expert/"
+    },
+    {
+      "name": "IEEE",
+      "logo": "/media/shared/partners/ieee.png",
+      "href": "https://site.ieee.org/sb-mak/"
+    },
+    {
+      "name": "Sunbird AI",
+      "logo": "/media/shared/partners/sunbird.png",
+      "href": "https://sunbird.ai/"
+    },
+    {
+      "name": "Badili",
+      "logo": "/media/shared/partners/badili.png",
+      "href": "https://badili.ug/"
+    },
+    {
+      "name": "Mpampe",
+      "logo": "/media/shared/partners/mpampe.png",
+      "href": "https://mpampe.com/"
+    }
+  ],
+  "gallery": [
+    {
+      "id": 1771847326218,
+      "image_path": "/media/2025/gallery/PXL_20250426_065508010~2.jpg",
+      "caption": "Hero Image 1",
+      "alt": "Hero 1",
+      "sort_order": 0
+    },
+    {
+      "id": 1771847335066,
+      "image_path": "/media/2025/gallery/PXL_20250426_093206098.jpg",
+      "caption": "Hero Image 2",
+      "alt": "Hero 2",
+      "sort_order": 1
+    },
+    {
+      "id": 1771847437924,
+      "image_path": "/media/2026/gallery/IMG_E0557.JPG",
+      "caption": "Hero Image 5 \u2014 AIFEST 2026",
+      "alt": "AIFEST 2026 gallery",
+      "sort_order": 4
+    },
+    {
+      "id": 1771847617691,
+      "image_path": "/media/2026/gallery/_DSC5912.JPG",
+      "caption": "Hero Image 3 \u2014 AIFEST 2026",
+      "alt": "AIFEST 2026 gallery",
+      "sort_order": 2
+    },
+    {
+      "id": 1771847632078,
+      "image_path": "/media/2026/gallery/_DSC5726.JPG",
+      "caption": "Hero Image 4 \u2014 AIFEST 2026",
+      "alt": "AIFEST 2026 gallery",
+      "sort_order": 3
+    }
+  ],
+  "team": [
+    {
+      "id": 1775551790571,
+      "name": "Abdul Mayanja",
+      "role": "Campus Co-ordinator",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/abdul.png",
+      "bio": ""
+    },
+    {
+      "id": 1775551790402,
+      "name": "Akol Hope ",
+      "role": "Campus Co-Ordinator Kyambogo University",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/akol.jpg",
+      "bio": "Akol is a passionate and results-driven Data Scientist & AI Enthusiast with expertise in data analysis, machine learning, statistical modeling, and data visualization. Proficient in Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Power BI, and Excel, she transforms complex data into actionable insights, build predictive models, and drive data-informed decision-making. She thrives in dynamic environments, applying data mining, exploratory analysis, and algorithm development to solve challenging problems and optimize business outcomes. Committed to continuous learning, She actively explore AI, deep learning, and big data technologies, staying at the forefront of emerging trends in the data science field.",
+      "linkedin": "https://www.linkedin.com/in/hfakol/overlay/contact-info/",
+      "portfolio": "https://akol-hope.github.io/hopeportfolio.github.io/#",
+      "email": "hopeakol351@gmail.com"
+    },
+    {
+      "id": 1775551790936,
+      "name": "Professor Engineer Bainomugisha",
+      "role": "Faculty Mentor",
+      "category": "mentor",
+      "image_path": "/media/2025/team/baino.png",
+      "bio": "Engineer Bainomugisha is a Professor and Chair of Computer Science at Makerere University, and a leading voice in Africa\u2019s AI and software engineering ecosystem. He is a researcher and innovator focused on leveraging technology for social impact, particularly in areas such as artificial intelligence, climate tech, and data-driven systems.\n\nHe is the founder and co-founder of several impactful initiatives, including AirQo, Sunbird AI, and Crane Cloud projects that are advancing air quality monitoring, applied AI research, and cloud infrastructure across Africa. His work has contributed to building scalable, locally relevant solutions that address real-world challenges like climate change and urban sustainability.\n\nBeyond research, Engineer Bainomugisha plays a key role in shaping the future of technology in Africa through mentorship, policy engagement, and global collaboration. He also serves as a council member at the World Economic Forum, contributing to conversations on emerging technologies and their societal impact.\n\nAs a Faculty Mentor for AI Fest Uganda, he brings deep expertise, visionary leadership, and a strong commitment to nurturing the next generation of innovators and problem-solvers.",
+      "linkedin": "https://www.linkedin.com/in/ibaino/",
+      "portfolio": "https://ibaino.net/",
+      "email": "bainomugisha@gmail.com"
+    },
+    {
+      "id": 1775551790551,
+      "name": "Miriam Angella Birungi",
+      "role": "Event Host Mc and Mbarara University Co-Ordinator",
+      "category": "speaker",
+      "image_path": "/media/2025/team/PXL_20250426_122547013.PORTRAIT.jpg",
+      "bio": "\nBirungi Angella Miriam is a driven and tech-savvy individual with a passion for digital innovation, collaboration, and community empowerment. Her professional journey includes an impactful internship at Sumic IT Solutions, where she gained hands-on experience in web development, User Interface Design with Figma, Version Control with Git and team-based software delivery. During this time, she contributed to real-world projects, deepened her understanding of modern technologies, and developed a proactive, solutions-oriented mindset.\n\nShe has also worked on collaborative tech initiatives such as Africart, an e-commerce platform designed to empower African artisans by giving them access to digital markets. This project reflects her ability to blend creativity with functionality while working on solutions that promote inclusivity and economic empowerment. Her role involved mainly front-end contributions, as well as coordination among team members to ensure successful implementation.",
+      "email": "birungimiriam323@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/miriam-angella-birungi-498616283/overlay/contact-info/"
+    },
+    {
+      "id": 1775551790982,
+      "name": "Bryant Nuwe",
+      "role": "Registrations  and Hackers presentations Co-Ordinator",
+      "category": "organizer",
+      "image_path": "/media/2025/team/brynt.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/bryant-nuwe-06225a28a/",
+      "email": "nuwebryant@gmail.com"
+    },
+    {
+      "id": 1775551791048,
+      "name": "Mwiine Daniel",
+      "role": "Kampala Internatrional University Co-Ordinator",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/daniel.jpeg",
+      "bio": "Daniel is a motivated and piled individual seeking new opportunities IT support. Through completion of the Google IT Support Professional Certificate, developed skills in customer service, networking operating systems (including Windows & Linux), system adminstration, and security. His training included hands-on practice in these areas. He is passionate about continuously learning in the IT field and supporting people to solve their technical problems. I am also passionate about DevOps and currently self learning Linux.",
+      "linkedin": "https://www.linkedin.com/in/mwiine-daniel-99293a114/",
+      "email": "mwiined@gmail.com"
+    },
+    {
+      "id": 1775551790221,
+      "name": "Dr Margaret Nagwovuma",
+      "role": "Speaker",
+      "category": "speaker",
+      "image_path": "/media/2025/team/PXL_20250426_075417356~2.jpg",
+      "bio": "Dr. Margaret gave a powerful keynote on entrepreneurship and innovation, encouraging youth to use AI and ICT for impactful solutions. Her experience at UNIPOD and as a lecturer offered practical guidance for aspiring tech entrepreneurs.",
+      "linkedin": "https://www.linkedin.com/in/margaret-nagwovuma-443280175/"
+    },
+    {
+      "id": 1775551791145,
+      "name": "MaryBright Etim",
+      "role": "Cavendish University Co-ordinator ",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/etim.jpeg",
+      "bio": "Atim is a creative and innovative web developer and professional writer who is highly skilled in building and developing static and dynamic websites and web applications which are well designed, functional, user-friendly, optimized and mobile responsive using various programming languages, libraries and frameworks. She aspires to contribute to a purpose larger than life by employing a scientific approach through which she tackle problems optimally and ensure every pixel is aesthetically aligned. She take responsibility for every unnoticed or noticed bug, striving to deliver my very best while wearing various hats. She am a lifelong learner and a front-end developer. ",
+      "linkedin": "https://www.linkedin.com/in/marybright-etim-265b75218/"
+    },
+    {
+      "id": 1775551790203,
+      "name": "Kyomugisha Evelyne",
+      "role": "Kabale University Co-Ordinator",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/evelyn.png",
+      "bio": ""
+    },
+    {
+      "id": 1775551790340,
+      "name": "FRANK MUHINDO",
+      "role": "UICT Campus Co-Ordinator",
+      "category": "organizer",
+      "image_path": "/media/2025/team/farnk.png",
+      "bio": "Frank is an Electronics and Communication Engineer with a strong passion for networking and software engineering, driven by a deep love for technology, community engagement, and knowledge sharing. I thrive at the intersection of hardware, software, and human-centered design, where I build solutions that are both technically sound and intuitively usable.",
+      "portfolio": "https://www.frankmuhindo.online/",
+      "email": "mfrankzagarinoh@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/frank-muhindo-b269611b3/"
+    },
+    {
+      "id": 1775551790592,
+      "name": "Jjemba Emmanuel",
+      "role": "Nkumba Univeristy Co-Ordinator and Judges Co-Ordinator",
+      "category": "organizer",
+      "image_path": "/media/2025/team/jjemba.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/jjemba-emmanuel-723110242/",
+      "email": "kalibobojoshua@gmail.com"
+    },
+    {
+      "id": 1775551790771,
+      "name": "Kyanda",
+      "role": "Head of Computer Science Department",
+      "category": "mentor",
+      "image_path": "/media/2025/team/kyanda.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/kyanda-swaib-k-phd-03b99173/"
+    },
+    {
+      "id": 1775551790993,
+      "name": "Marie Bushiri",
+      "role": "Victoria University Co-Ordinator",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/marie.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/marie-bushiri-83561a2a2/"
+    },
+    {
+      "id": 1775551790396,
+      "name": "Catherine Ndagire \u00b7",
+      "role": "Uganda Christine University Co-Ordinator",
+      "category": "organizer",
+      "image_path": "/media/2025/team/ndagire.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/catherine-ndagire-7ba533311/",
+      "email": "tronellahn@gmail.com"
+    },
+    {
+      "id": 1775551791110,
+      "name": "Simon Peter Makobi ",
+      "role": "Kabale university Co-Ordinator",
+      "category": "campus_ambassador",
+      "image_path": "/media/2025/team/peter.png",
+      "bio": "",
+      "linkedin": "https://www.linkedin.com/in/simon-peter-makobi-b7bb8b2b3/"
+    },
+    {
+      "id": 1775551790416,
+      "name": "Professor Tonny Oyana",
+      "role": "Principal of the College of Computing and Information Sciences, Makerere University,",
+      "category": "mentor",
+      "image_path": "/media/2025/team/proinciple.png",
+      "bio": "",
+      "email": "toyana@uthsc.edu",
+      "linkedin": "https://www.linkedin.com/in/tonny-oyana-4abbb2b/"
+    },
+    {
+      "id": 1775551790863,
+      "name": "Samuel Putshu Lunghe",
+      "role": "ISBAT University Co-Ordinator",
+      "category": "organizer",
+      "image_path": "/media/2025/team/samuel.png",
+      "bio": "",
+      "linkedin": "http://linkedin.com/in/putshu-lunghe-samuel-1a97911b1/",
+      "email": "samuellunghe@gmail.com"
+    },
+    {
+      "id": 1775551790759,
+      "name": "Drileba (Remo) Shem",
+      "role": "Opensource Director",
+      "category": "organizer",
+      "image_path": "/media/2025/team/shem.png",
+      "bio": "",
+      "email": "shemremo@gmail.com",
+      "linkedin": "https://www.linkedin.com/in/drileba-shem-b4a3542b5/"
+    },
+    {
+      "id": 1775558398165,
+      "name": "Ssemaganda George",
+      "role": "Judges Co-ordinator",
+      "category": "organizer",
+      "bio": "",
+      "image_path": "/media/2025/team/george.jpeg",
+      "linkedin": "https://www.linkedin.com/in/ssemaganda-george/",
+      "twitter": "",
+      "email": "ssemagandageorge480@gmail.com"
+    },
+    {
+      "id": 1775559276247,
+      "name": "Tina Marion Abwor",
+      "role": "Events Co-Ordinator",
+      "category": "organizer",
+      "bio": "As an Events Manager for GDG Makerere, coordinates hackathons, workshops, and events to foster an inclusive developer community. Values collaboration, innovation, and continuous learning to solve problems and create meaningful contributions. Motivated to advance both technical expertise and community engagement.",
+      "image_path": "/media/2025/team/tina.jpeg",
+      "linkedin": "https://www.linkedin.com/in/tina-marion-abwor/",
+      "twitter": "",
+      "email": "tinaamarion@gmail.com"
+    },
+    {
+      "id": 1775560396264,
+      "name": "Patricia Asiimire",
+      "role": "Community Manager",
+      "category": "organizer",
+      "bio": "",
+      "image_path": "/media/2025/team/patricai.jpeg",
+      "linkedin": "https://www.linkedin.com/in/patricia-asiimire-38b936236/",
+      "twitter": "",
+      "email": "asiimirepatricia26@gmail.com",
+      "portfolio": "https://patricia-asiimire.vercel.app/"
+    },
+    {
+      "id": 1775560639935,
+      "name": "Melissa Nakayondo",
+      "role": "Judges Co-Ordinator",
+      "category": "member",
+      "bio": "",
+      "image_path": "/media/2025/team/mellisa.jpeg",
+      "linkedin": "https://www.linkedin.com/in/melissa-nakayondo-175018264/",
+      "twitter": "",
+      "email": "daniellanmelissa@gmail.com"
+    },
+    {
+      "id": 1775560784912,
+      "name": " Matsiko Ian",
+      "role": "Technical Director",
+      "category": "organizer",
+      "bio": "",
+      "image_path": "/media/2025/team/ian.png",
+      "linkedin": "https://www.linkedin.com/in/matsiko-ian-220036189/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775561088609,
+      "name": "Johnson kabira Makmot",
+      "role": "Emerging Trends Co-Ordinator",
+      "category": "organizer",
+      "bio": "Active member of tech communities like Google developers Group - kampala\nGoogle cloud developer community.",
+      "image_path": "/media/2025/team/devj.jpeg",
+      "linkedin": "https://www.linkedin.com/in/makmot256/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775561205685,
+      "name": "Mariam Wambui",
+      "role": "Public Relations",
+      "category": "organizer",
+      "bio": "",
+      "image_path": "/media/2025/team/mariam.jpeg",
+      "linkedin": " linkedin.com/in/mariam-wambui-942458278",
+      "twitter": "",
+      "email": "mariamw107@gmail.com"
+    },
+    {
+      "id": 1775562717050,
+      "name": "Sumaiya Nalukwago",
+      "role": "Host",
+      "category": "speaker",
+      "bio": "Sumaiya Nalukwago is an IT Professional and  Tech Community Leader passionate about building movements that transform Africa\u2019s tech ecosystem at scale. \nAs a dedicated Women in Tech Advocate and the Founder of Tech Over Africa Network, she is on a mission to bridge the gender gap by equipping African youth, especially women, with the skills they need to thrive in the digital landscape.",
+      "image_path": "/media/2025/team/PXL_20250426_092641516.MP.jpg",
+      "linkedin": "https://www.linkedin.com/in/sumaiya-nalukwago/",
+      "twitter": "",
+      "email": "nksumaiya586@gmail.com",
+      "portfolio": "https://calendar.google.com/calendar/u/0/appointments/schedules/AcZssZ1gD4wdI1d0_-HXk2iEXAT2qLuHf2hk_zvPiphtXiFj6tD9mwT8NBL91p4Zx9VN_jXxYAsRqdvL"
+    },
+    {
+      "id": 1775562950303,
+      "name": "Allan Lule",
+      "role": "Speaker Miic Hub",
+      "category": "speaker",
+      "bio": "\nA software engineer and developer for more than 8 years. I have developed software and managed software development teams for different projects ranging from Startups to Corporations in Uganda. \n\nFor over 5 years, I consulted and worked with startups and companies helping them develop digital solutions and develop market for their products. I have co-designed and and implemented corporate innovation programs that have helped industry companies rethink their innovation strategies and develop new products and services.\n\nI have co-designed and implemented startup incubation programs to nurture startups and help them become investment ready.\n\nI am an entrepreneur also running 2 different startups and enterprises in the digital space with the goal of providing digital tools to help small businesses achieve better management practices through customized digital solutions.\n\nI have consulted for more than 20 Organizations and Enterprise Hubs to implement business incubation and acceleration programs.",
+      "image_path": "/media/2025/team/allan.png",
+      "linkedin": "https://www.linkedin.com/in/allan-lule-52b9ba240/",
+      "twitter": "",
+      "email": "",
+      "portfolio": "https://miichub.com/"
+    },
+    {
+      "id": 1775563269794,
+      "name": "Timothy Byekwaso Jr.",
+      "role": "Asili Fortune Representative",
+      "category": "speaker",
+      "bio": "Timothy believes that organisations unlock greater innovation, growth, and sustainable impact when they rigorously track the interdependency between social and business outcomes.\nWith over 14 years\u2019 experience in Information Systems design and optimisation, Timothy has led and invariably collaborated on IT projects across sub-Saharan Africa, working with diverse stakeholders across Renewable Energy, Agribusiness, Hospitality & Tourism, Financial Technology, Management Consulting, and EPC sectors.",
+      "image_path": "/media/2025/team/timoty.png",
+      "linkedin": "",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775563371702,
+      "name": "Pritchard Chimbari",
+      "role": "Amalitech Representative",
+      "category": "speaker",
+      "bio": "He is an experienced HR business partner with high commercial awareness and global exposure gained over 10 years of multinational cross-industry experience in formulating and executing HR strategies, as well as guiding management teams on people, leadership, and organizational development matters both as an in-house practitioner and external consultant. He is passionate about creating positive employee experiences, fostering a culture of continuous learning and development, and driving organizational growth. My background in human resource management, people operations, and strategy consulting positions me to support senior management teams in integrating HR functional expertise with strategic business objectives to deliver tangible results. If you are seeking an HR expert who combines a modern outlook with proven expertise, He is open to opportunities to connect and collaborate.",
+      "image_path": "/media/2025/team/patrick.png",
+      "linkedin": "https://www.linkedin.com/in/pritchard-chimbari/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775563658496,
+      "name": "Kato Trevor",
+      "role": "Github Student Expert",
+      "category": "speaker",
+      "bio": "Kato is passionate about technology and the endless list of possibilities that we have because of it. He graduated from Makerere University with a Bachelor of Science in Software Engineering, and it was an eye-opening experience. From my experience, He has learnt and grown to become a better version of myself by participating in communities such as the GDG on Campus community, the GitHub Campus Expert program, and the Rotaract Club of Buloba. He loves learning from the opinions and perspectives of others, especially in technology. ",
+      "image_path": "/media/2025/team/trevor.png",
+      "linkedin": "https://www.linkedin.com/in/kato-trevor/",
+      "twitter": "",
+      "email": "katotrevor99@gmail.com",
+      "github": "https://github.com/Kato-Trevor"
+    },
+    {
+      "id": 1775563886164,
+      "name": "Patrick Walukaga",
+      "role": "Sunbird Representative",
+      "category": "speaker",
+      "bio": "\nPassionate Back-End Developer with 4 years of experience in software development. Skilled in building scalable and testable back-end solutions using Python, Django, and PostgreSQL and I have experience working with Flask, GraphQL, Pandas, and NumPy. Patrick is a lifelong learner who constantly seeks to learn new technologies and is interested in Data Engineering, Big Data, Machine Learning, Deep Learning, and MLOPs.\n\nSkills: Python, Django/Flask/FastAPI, SQL, GCP,  Scikit-Learn, AWS Cloud Practitioner, Pandas, NumPy, Bash Scripting, Docker, CI/CD.",
+      "image_path": "/media/2025/team/sunbird.png",
+      "linkedin": "https://www.linkedin.com/in/patrick-walukagga-53261382/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775564266758,
+      "name": "Cleopatra Kanyunyuzi",
+      "role": "Founder Club Tangaza | Co-Founder and Director PinkCode Uganda",
+      "category": "judge",
+      "bio": "Cleopatra Kanyunyuzi is a visionary tech leader and social entrepreneur committed to building inclusive digital futures. She is the Founder and CEO of Club Tangaza, a pioneering platform equipping kids, teens, and beginners with coding, robotics and digital literacy skills; Founder and CEO of The Tangaza Charity Initiative, driving education and opportunity for underprivileged communities; and Co-Founder & Director of PinkCode Uganda, a digital transformation initiative empowering women and girls in technology.\n\nWith over a decade of experience in computer science, software engineering, and social innovation, Cleopatra is recognized globally as a Tech and Impact Strategist, Speaker, and Advocate for Digital Inclusion. She is passionate about leveraging emerging technologies AI, data, and digital transformation to bridge the gap between academia and industry, unlock economic growth, and ensure that women, youth, and underserved communities are not left behind in the digital revolution.\n\nThrough her ventures and thought leadership, she is shaping the next generation of engineers, innovators, and changemakers while partnering with global organizations to scale solutions that combine profit with purpose.\n\nCleopatra is available for global collaborations, strategic partnerships, speaking engagements, and initiatives that align technology with social impact and inclusion.",
+      "image_path": "/media/2025/team/cleo.png",
+      "linkedin": "https://www.linkedin.com/in/cleopatra-kanyunyuzi-632b38189/",
+      "twitter": "",
+      "email": "kanyunyuzicleo@gmail.com"
+    },
+    {
+      "id": 1775564402293,
+      "name": "Sserunkuuma Ibrahim",
+      "role": "Chief Executive Officer @ Mediloop | Building Digital Healthcare Infrastructure for Uganda. ",
+      "category": "judge",
+      "bio": "Currently serving as CEO at Zentrix Africa Technology Institute, I oversee strategic planning and operational management to deliver industry-aligned education in cybersecurity, data science, and cloud computing. Holding a Bachelor of Science in Software Engineering from Makerere University, my academic foundation complements my professional expertise, which spans entrepreneurship, software development, and network security. Alongside my leadership at Zentrix, I co-founded CareerBoost AI and lead as CEO of Qollix, driving innovation and impactful solutions. My work is guided by a commitment to accessibility, inclusivity, and excellence in education and technology.",
+      "image_path": "/media/2025/team/ibarhim.png",
+      "linkedin": "https://www.linkedin.com/in/sserunkuuma-ibrahim-742a70230/",
+      "twitter": "",
+      "email": "sserunkuumaibrahim@gmail.com"
+    },
+    {
+      "id": 1775564495511,
+      "name": "Valentine Masicha",
+      "role": "Edtech Entrepreneur | AI Educator & Literacy Advocate | Empowering Businesses & Youth Through AI & Digital Skills | Community Builder",
+      "category": "judge",
+      "bio": "I\u2019m pioneering the convergence of AI, entrepreneurship education, and community development\u2014creating pathways for young Africans to not just consume technology, but to build the solutions their communities need. This includes working with educators to integrate AI literacy into curricula and supporting small business owners in leveraging technology for growth.",
+      "image_path": "/media/2025/team/valentine.png",
+      "linkedin": "https://www.linkedin.com/in/valentine-masicha/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775564598701,
+      "name": "Mukisa Geofrey",
+      "role": "COO at Koodeyo Technologies Limited",
+      "category": "judge",
+      "bio": "",
+      "image_path": "/media/2025/team/geogrey.png",
+      "linkedin": " linkedin.com/in/mukisa-geofrey",
+      "twitter": "",
+      "email": "mukisageofrey@koodeyo.com"
+    },
+    {
+      "id": 1775564687481,
+      "name": "Carol Mugide",
+      "role": "Project Manager",
+      "category": "judge",
+      "bio": "As an Agile Project Manager, She leverages her skills and years of experience to lead agile initiatives within the startup ecosystem, entrepreneurship, educational and livelihood programs/projects. Her expertise spans project planning and management, performance improvement, data analytics, startup strategy, and regulatory compliance, among others. She holds a Master's of Science in Management and have a background in Information Technology. She's dedicated to enhancing project and program delivery in alignment with organizational goals. Currently, she's pursuing PMP certification to further cultivate my expertise in project management and leadership.",
+      "image_path": "/media/2025/team/carol.png",
+      "linkedin": "https://www.linkedin.com/in/carol-mugide-00284aba/",
+      "twitter": "",
+      "email": "carolmugide2019@gmail.com",
+      "portfolio": "https://carolmugide2019.wixsite.com/carolmugide"
+    }
+  ],
+  "timeline": [],
+  "faqs": []
+}
