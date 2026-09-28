@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# AIFEST Website
 
-## Getting Started
+Public marketing site for [AIFEST](https://aifest.africa) — Next.js App Router, Neon Postgres + Object Storage.
 
-First, run the development server:
+## Requirements
+
+- Node.js **22+** (see `.nvmrc`)
+- Neon project linked (Object Storage bucket `gallery`, `public_read`)
+- AWS CLI v2 (only needed to upload media)
+
+```bash
+nvm use
+npm install
+cp .env.example .env.local
+# then: neon link … && neon deploy   OR paste Console values into .env.local
+```
+
+Set `NEXT_PUBLIC_MEDIA_BASE_URL` to `{AWS_ENDPOINT_URL_S3}/gallery` (no trailing slash).
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Media (Neon Object Storage)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Large media is **not** in git. It lives in the `gallery` bucket with **one folder per edition**:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```text
+gallery/
+  2025/     # edition assets (gallery, team, decks, …)
+  2026/
+  shared/   # cross-edition assets
+```
 
-## Learn More
+Upload / refresh from a local copy of `v1/web/public/media`:
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npm run media:upload
+# optional: MEDIA_SOURCE_DIR=/path/to/public/media npm run media:upload
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+App paths stay `/media/2025/...`; Next.js rewrites them to Neon. Use `mediaUrl()` from `src/lib/media.ts` when you need an absolute URL.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Scripts
 
-## Deploy on Vercel
+| Script | Purpose |
+| --- | --- |
+| `npm run dev` | Local development |
+| `npm run build` / `start` | Production build |
+| `npm run lint` | ESLint |
+| `npm run media:upload` | Sync edition folders to Neon |
+| `npm run generate-favicons` | Favicon pipeline |
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Project layout
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+```text
+src/app/           # routes (edition pages, gallery, about, …)
+src/components/    # UI
+src/lib/           # editions data, media helper, utils
+skills/            # Neon agent skills (neon + object-storage)
+neon.ts            # Neon infra (gallery bucket)
+scripts/           # media upload, favicons
+```
+
+## Docs
+
+- [CONTRIBUTING.md](./CONTRIBUTING.md) — collaboration & PR checklist
+- [docs/architecture.md](./docs/architecture.md) — editions + media URL scheme
+- [AGENTS.md](./AGENTS.md) — agent guidance (Next.js + Neon)
+
+## Neon
+
+```bash
+neon deploy          # apply neon.ts
+neon env pull        # refresh .env.local credentials
+```
