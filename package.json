@@ -3,26 +3,47 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
-    "build": "next build",
+    "dev": "next dev --webpack",
+    "build": "next build --webpack",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "generate-favicons": "node scripts/generate-favicons.mjs",
+    "media:upload": "node scripts/upload-media-to-neon.mjs"
   },
   "dependencies": {
     "@neon/config": "^1.8.2",
     "@neon/env": "^1.4.7",
+    "@splinetool/react-spline": "^4.1.0",
+    "@splinetool/runtime": "^1.12.28",
+    "@vercel/analytics": "^1.6.1",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^12.23.26",
+    "lucide-react": "^0.562.0",
     "next": "16.3.6",
+    "next-themes": "^0.4.6",
+    "pdfjs-dist": "^5.4.296",
     "react": "19.2.8",
-    "react-dom": "19.2.8"
+    "react-dom": "19.2.8",
+    "react-pdf": "^9.1.1",
+    "tailwind-merge": "^3.4.0"
   },
   "devDependencies": {
+    "@playwright/test": "^1.59.1",
     "@tailwindcss/postcss": "^4",
+    "@types/estree": "^1.0.8",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "babel-plugin-react-compiler": "1.0.0",
     "eslint": "^9",
     "eslint-config-next": "16.3.6",
+    "next-pwa": "^5.6.0",
+    "sharp": "^0.34.5",
     "tailwindcss": "^4",
-    "typescript": "^5"
+    "typescript": "5.9.3"
+  },
+  "engines": {
+    "node": ">=22"
   }
 }
