@@ -66,7 +66,6 @@ export function Aifest2026Content({
     // Use provided images or fallbacks if array is empty
     const leftBigImage = registrationImage || gallery[0]?.image_path;
     const cardImage1 = gallery[1]?.image_path;
-    const cardImage2 = gallery[2]?.image_path; // Or reuse hero if not enough
 
     const [viewDeck, setViewDeck] = useState<string | null>(null);
 

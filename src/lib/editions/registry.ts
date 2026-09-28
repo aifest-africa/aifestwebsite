@@ -38,13 +38,28 @@ export function getAllGalleryImages() {
 }
 
 import boardData from "../static/board.json";
+import type { TeamMember } from "./types";
+
+type BoardMemberRecord = {
+    id?: string | number;
+    name: string;
+    role: string;
+    bio?: string;
+    image_path?: string | null;
+    category?: string;
+    linkedin?: string;
+    twitter?: string;
+    email?: string;
+    portfolio?: string;
+    github?: string;
+};
 
 /** Aggregate team members across all editions, optionally filtered by year */
-export function getTeamMembers(year?: number) {
+export function getTeamMembers(year?: number): TeamMember[] {
     const editions = year ? allEditions.filter((e) => e.year === year) : allEditions;
 
     // Get edition-specific members
-    const editionMembers = editions.flatMap((e) =>
+    const editionMembers: TeamMember[] = editions.flatMap((e) =>
         (e.team ?? []).map((member) => ({
             ...member,
             editionYear: e.year,
@@ -52,15 +67,23 @@ export function getTeamMembers(year?: number) {
     );
 
     // Get global board members
-    const boardMembers = ((boardData.team || []) as any[]).map((member) => ({
-        ...member,
+    const boardTeam = (boardData.team ?? []) as BoardMemberRecord[];
+    const boardMembers: TeamMember[] = boardTeam.map((member) => ({
+        id: member.id ?? member.name,
+        name: member.name,
+        role: member.role,
+        bio: member.bio,
+        image_path: member.image_path,
+        category: member.category ?? "board",
+        linkedin: member.linkedin,
+        twitter: member.twitter,
+        email: member.email,
+        portfolio: member.portfolio,
+        github: member.github,
         editionYear: "Global",
-        category: "board",
     }));
 
     // If a specific year is requested, only return that year's members + board members
     // If no year is requested, return all members + board members
-    const finalMembers = [...boardMembers, ...editionMembers] as any[];
-
-    return finalMembers;
+    return [...boardMembers, ...editionMembers];
 }

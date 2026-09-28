@@ -11,8 +11,8 @@ export interface TeamMember {
      * Valid values: board | organizer | volunteer | mentor | speaker | judge | member | campus_ambassador
      */
     category: string;
-    /** Links this member to a specific edition year */
-    editionYear?: number;
+    /** Links this member to a specific edition year, or "Global" for board */
+    editionYear?: number | string;
     /** 
      * Social media and contact links for the team member.
      * Supported platforms: linkedin, twitter, email, portfolio, github

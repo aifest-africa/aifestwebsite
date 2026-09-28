@@ -333,6 +333,7 @@ export function SiteHeader({
               {/* Bottom footer section */}
               <div className="p-8 flex flex-col items-center gap-4 border-t border-[#102563]/10 dark:border-white/10">
                 {logoUrl ? (
+                  // eslint-disable-next-line @next/next/no-img-element -- mobile drawer brand mark
                   <img
                     src={logoUrl}
                     alt={brandName}

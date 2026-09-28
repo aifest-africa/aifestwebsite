@@ -86,10 +86,8 @@ const EDITION_FOLDERS = ["2025", "2026", "shared"];
  * Makerere University + GDG on Campus Makerere University.
  * Edition-specific logos live under {year}/partners/.
  */
-const SKIP_EXT = new Set([".heic", ".HEIC"]);
 
-function aws(args, { quiet = false } = {}) {
-  const result = spawnSync(
+function aws(args, { quiet = false } = {}) {  const result = spawnSync(
     "aws",
     [
       "s3",

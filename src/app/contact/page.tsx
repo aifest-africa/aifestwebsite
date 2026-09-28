@@ -26,8 +26,7 @@ export default function ContactPage() {
   const socials = safeSocials(s.socials);
 
   const heroImageUrls: string[] = [];
-  const carouselImages: any[] = [];
-  const sections: any[] = [];
+  const carouselImages: { id: string | number; image_path: string; caption?: string | null }[] = [];
 
   return (
     <main className="relative overflow-hidden bg-white dark:bg-[#000d1a] min-h-screen transition-colors duration-500 pb-24">

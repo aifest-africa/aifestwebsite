@@ -143,7 +143,6 @@ export function EditionContent({
     gallery = [],
     registrationImage,
     registrationUrl,
-    prototypeSubmissionUrl,
     sponsorshipDeckUrl,
     sponsorshipDeckPreview,
     sponsorshipDeckLabel = "Sponsorship Deck",
