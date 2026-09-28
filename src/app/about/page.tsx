@@ -13,7 +13,7 @@ import {
   Globe
 } from "lucide-react";
 import { WhyAttendCarousel } from "./why-attend-carousel";
-import { ProjectAreasMarquee } from "../../components/project-areas-marquee";
+import { ProjectAreasMarquee } from "../../components/home/project-areas-marquee";
 import {
   getWhyAttendItems,
 } from "../../lib/content";

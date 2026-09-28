@@ -2,13 +2,13 @@ import {
   Container,
   Section,
 } from "@/lib/ui";
-import { ImageCarousel } from "../components/image-carousel";
-import { ScrollReveal } from "../components/scroll-reveal";
-import { MagneticCard } from "../components/magnetic-card";
-import { HeroInteractive } from "../components/hero-interactive";
+import { ImageCarousel } from "../components/gallery/image-carousel";
+import { ScrollReveal } from "../components/effects/scroll-reveal";
+import { MagneticCard } from "../components/effects/magnetic-card";
+import { HeroInteractive } from "../components/hero/hero-interactive";
 import { getSiteSettings, getHomepageCarousel, publicMediaUrl } from "../lib/content";
 
-import { ProjectAreasMarquee } from "../components/project-areas-marquee";
+import { ProjectAreasMarquee } from "../components/home/project-areas-marquee";
 
 function safeCards(v: unknown): { title: string; desc: string; href: string }[] {
   if (!Array.isArray(v)) return [];

@@ -1,6 +1,6 @@
 import { Container, Section, SectionTitle } from "@/lib/ui";
-import { PageHero } from "../../components/page-hero";
-import { ImageCarousel } from "../../components/image-carousel";
+import { PageHero } from "../../components/hero/page-hero";
+import { ImageCarousel } from "../../components/gallery/image-carousel";
 
 type SocialLink = { href: string; label: string };
 

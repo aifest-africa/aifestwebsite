@@ -1,9 +1,9 @@
 'use client';
 
 import { useState, useMemo } from 'react';
-import { PhotoGallery } from "../../components/photo-gallery-hero";
-import InteractiveBentoGallery from "../../components/interactive-bento-gallery";
-import { ProjectAreasMarquee } from "../../components/project-areas-marquee";
+import { PhotoGallery } from "../../components/hero/photo-gallery-hero";
+import InteractiveBentoGallery from "../../components/gallery/interactive-bento-gallery";
+import { ProjectAreasMarquee } from "../../components/home/project-areas-marquee";
 import { allEditions } from "../../lib/editions/registry";
 import { ChevronDown } from "lucide-react";
 

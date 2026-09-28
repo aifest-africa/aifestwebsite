@@ -1,8 +1,8 @@
 /* eslint-disable @next/next/no-img-element */
 import { Container, Section } from "@/lib/ui";
-import { PageHero } from "../../components/page-hero";
-import { ImageCarousel } from "../../components/image-carousel";
-import { ContentCards, parseContentIntoCards } from "../../components/content-cards";
+import { PageHero } from "../../components/hero/page-hero";
+import { ImageCarousel } from "../../components/gallery/image-carousel";
+import { ContentCards, parseContentIntoCards } from "../../components/home/content-cards";
 import { currentEdition, publicMediaUrl } from "../../lib/content";
 import { notFound } from "next/navigation";
 

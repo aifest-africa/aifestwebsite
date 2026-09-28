@@ -54,12 +54,21 @@ App paths stay `/media/2025/...`; Next.js rewrites them to Neon. Use `mediaUrl()
 ## Project layout
 
 ```text
-src/app/           # routes (edition pages, gallery, about, …)
-src/components/    # UI
-src/lib/           # editions data, media helper, utils
-skills/            # Neon agent skills (neon + object-storage)
-neon.ts            # Neon infra (gallery bucket)
-scripts/           # media upload, favicons
+src/app/                 # routes
+src/components/
+  layout/                # header, footer, theme, chrome
+  hero/                  # heroes & slideshows
+  gallery/               # gallery & carousels
+  edition/               # edition pages, winners, video recap
+  partners/              # partners & partnership tiers
+  home/                  # homepage / get-involved blocks
+  effects/               # motion helpers (scroll, magnetic)
+  content/               # markdown helpers
+  forms/ teams/ ui/      # existing domains
+src/lib/                 # editions data, media helper, utils
+skills/                  # Neon agent skills
+neon.ts                  # Neon infra (gallery bucket)
+scripts/                 # media upload, favicons
 ```
 
 ## Docs

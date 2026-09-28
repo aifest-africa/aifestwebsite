@@ -1,7 +1,7 @@
 import Link from "next/link";
-import { ImpactHero } from "../../components/impact-hero";
-import { EditionCardExpanded } from "../../components/edition-card-expanded";
-import { ProjectAreasMarquee } from "../../components/project-areas-marquee";
+import { ImpactHero } from "../../components/hero/impact-hero";
+import { EditionCardExpanded } from "../../components/edition/edition-card-expanded";
+import { ProjectAreasMarquee } from "../../components/home/project-areas-marquee";
 import { getSiteSettings, allEditions } from "../../lib/content";
 
 export const metadata = {

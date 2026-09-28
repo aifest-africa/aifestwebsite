@@ -9,7 +9,7 @@ import { Home, Info, Image as ImageIcon, Bell, Mail, Users, FileText, Twitter, L
 type FooterLinkItem = { href: string; label: string };
 
 import { ThemeToggle } from "./theme-toggle";
-import { subscribeToNewsletter, type ActionResult } from "../app/actions/forms";
+import { subscribeToNewsletter, type ActionResult } from "../../app/actions/forms";
 import { cn } from "@/lib/ui";
 
 import { motion } from "framer-motion";

@@ -1,7 +1,7 @@
 
 "use client";
 
-import { HeroSlideshowBackground } from "../../components/hero-slideshow";
+import { HeroSlideshowBackground } from "../../components/hero/hero-slideshow";
 
 export function AboutHero({
     title,

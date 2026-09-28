@@ -8,8 +8,8 @@ import { useState, useEffect } from "react";
 import { X, Plus, Minus, Trophy, GraduationCap } from "lucide-react";
 import { FAQItem as FAQItemType, TimelineItem as TimelineItemType, GalleryImage, Partner as PartnerType, Venue as VenueType, Winner as WinnerType } from "../../lib/editions/types";
 import { PDFPreview } from "./PDFPreview";
-import { PartnersSection } from "../partners-section";
-import { WinnerCard } from "../winner-card";
+import { PartnersSection } from "../partners/partners-section";
+import { WinnerCard } from "./winner-card";
 
 interface HeroImageProps {
     image_path: string;

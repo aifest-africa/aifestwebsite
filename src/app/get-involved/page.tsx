@@ -1,6 +1,6 @@
-import { PageHero } from "../../components/page-hero";
-import { PartnershipTiers } from "../../components/partnership-tiers";
-import { ContactDetails } from "../../components/contact-details";
+import { PageHero } from "../../components/hero/page-hero";
+import { PartnershipTiers } from "../../components/partners/partnership-tiers";
+import { ContactDetails } from "../../components/home/contact-details";
 
 export default function GetInvolvedPage() {
   return (

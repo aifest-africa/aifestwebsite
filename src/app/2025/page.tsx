@@ -1,5 +1,5 @@
 import { EditionContent } from "../../components/edition/EditionContent";
-import { VideoRecapSection } from "../../components/video-recap-section";
+import { VideoRecapSection } from "../../components/edition/video-recap-section";
 import { edition2025 } from "./data";
 
 export default function Aifest2025Page() {

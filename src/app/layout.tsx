@@ -1,10 +1,10 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { AnimatedTextFooter } from "../components/animated-text-footer";
-import { SiteHeader } from "../components/site-header";
+import { AnimatedTextFooter } from "../components/layout/animated-text-footer";
+import { SiteHeader } from "../components/layout/site-header";
 import { getSiteSettings } from "../lib/content";
-import { BottomBranding } from "../components/bottom-branding";
+import { BottomBranding } from "../components/layout/bottom-branding";
 import { Analytics } from "@vercel/analytics/next"
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -61,7 +61,7 @@ export const generateViewport = () => {
   };
 }
 
-import { ThemeProvider } from "../components/theme-provider";
+import { ThemeProvider } from "../components/layout/theme-provider";
 
 export default function RootLayout({
   children,

@@ -4,8 +4,8 @@ import { Container, Section } from "@/lib/ui";
 import { motion } from "framer-motion";
 import { useMemo } from "react";
 import { HeroSlideshowBackground } from "./hero-slideshow";
-import { VerticalCutReveal } from "./ui/vertical-cut-reveal";
-import { Spotlight } from "./ui/spotlight";
+import { VerticalCutReveal } from "../ui/vertical-cut-reveal";
+import { Spotlight } from "../ui/spotlight";
 
 export function PageHero({
   title,

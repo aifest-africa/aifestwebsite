@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { MagneticCard } from "../../components/magnetic-card";
+import { MagneticCard } from "../../components/effects/magnetic-card";
 import { cn } from "@/lib/ui";
 
 interface PillarBoxProps {

@@ -3,10 +3,10 @@
 'use client'
 
 import { useEffect, useRef } from 'react'
-import { SplineScene } from './ui/spline'
-import { ScrollReveal } from './scroll-reveal'
-import { ButtonColorful } from './ui/button-colorful'
-import { ButtonNeon } from './ui/button-neon'
+import { SplineScene } from '../ui/spline'
+import { ScrollReveal } from '../effects/scroll-reveal'
+import { ButtonColorful } from '../ui/button-colorful'
+import { ButtonNeon } from '../ui/button-neon'
 import type { Application } from '@splinetool/runtime'
 
 interface HeroInteractiveProps {

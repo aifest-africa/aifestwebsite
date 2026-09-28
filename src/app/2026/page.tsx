@@ -1,5 +1,5 @@
 import { EditionContent } from "../../components/edition/EditionContent";
-import { ProjectAreasMarquee } from "../../components/project-areas-marquee";
+import { ProjectAreasMarquee } from "../../components/home/project-areas-marquee";
 import { edition2026 } from "./data";
 
 export default function Aifest2026Page() {

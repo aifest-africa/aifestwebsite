@@ -4,7 +4,7 @@ import { Container, Section } from "@/lib/ui";
 import { motion } from "framer-motion";
 import { useRef, useState, useEffect } from "react";
 import { cn } from "@/lib/ui";
-import { ScrollReveal } from "./scroll-reveal";
+import { ScrollReveal } from "../effects/scroll-reveal";
 
 interface VideoCardProps {
     src: string;
