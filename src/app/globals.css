@@ -1,26 +1,494 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@font-face {
+  font-family: 'Blanka';
+  src: url('/media/shared/fonts/Blanka-Regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
 
 :root {
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #001F3F;
+  --muted: rgba(0, 31, 63, 0.6);
+  --border: rgba(0, 0, 0, 0.08);
+  --ring: rgba(0, 217, 255, 0.3);
+
+  /* AIFEST Brand Colors */
+  --cyan: #00D9FF;
+  --cyan-hover: #00BFDD;
+  --navy: #001F3F;
+  --navy-light: #002952;
+
+  /* Google Colors */
+  --google-blue: #4285F4;
+  --google-red: #EA4335;
+  --google-yellow: #FBBC04;
+  --google-green: #34A853;
+
+  /* Accent gradients */
+  --gradient-primary: linear-gradient(135deg, #FF6B9D 0%, #C084FC 50%, #00D9FF 100%);
+  --gradient-secondary: linear-gradient(135deg, #00D9FF 0%, #4285F4 100%);
+  --gradient-bg: linear-gradient(135deg, #FFF0F5 0%, #E0F7FA 100%);
+
+  --font-blanka: 'Blanka', var(--font-geist-sans), sans-serif;
+}
+
+.dark {
+  --background: #001F3F;
+  --foreground: #ffffff;
+  --muted: rgba(255, 255, 255, 0.6);
+  --border: rgba(255, 255, 255, 0.12);
+  --ring: rgba(0, 217, 255, 0.5);
+
+  --navy: #00050a;
+  --navy-light: #000a14;
+
+  --gradient-bg: linear-gradient(135deg, #00050a 0%, #000205 100%);
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
+  --color-muted: var(--muted);
+  --color-border: var(--border);
+  --color-ring: var(--ring);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+html {
+  scroll-behavior: smooth;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  position: relative;
+  overflow-x: hidden;
+}
+
+
+* {
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* ========================================
+   ANIMATION SYSTEM
+   ======================================== */
+
+/* Keyframes */
+@keyframes aifest-fade-up {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 32px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes aifest-fade-in {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes aifest-scale-in {
+  from {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes aifest-slide-in-right {
+  from {
+    opacity: 0;
+    transform: translate3d(32px, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes aifest-slide-in-left {
+  from {
+    opacity: 0;
+    transform: translate3d(-32px, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes aifest-glow {
+
+  0%,
+  100% {
+    box-shadow: 0 0 20px rgba(0, 217, 255, 0.4),
+      0 0 40px rgba(0, 217, 255, 0.2);
+  }
+
+  50% {
+    box-shadow: 0 0 30px rgba(0, 217, 255, 0.6),
+      0 0 60px rgba(0, 217, 255, 0.3);
+  }
+}
+
+@keyframes aifest-gradient-shift {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes aifest-float {
+
+  0%,
+  100% {
+    transform: translateY(0px) rotate(0deg);
+  }
+
+  50% {
+    transform: translateY(-20px) rotate(5deg);
+  }
+}
+
+@keyframes aifest-spin-slow {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes aifest-shimmer {
+  0% {
+    transform: translateX(-100%);
+  }
+
+  100% {
+    transform: translateX(100%);
+  }
+}
+
+@keyframes aifest-pulse-subtle {
+
+  0%,
+  100% {
+    opacity: 1;
+  }
+
+  50% {
+    opacity: 0.8;
+  }
+}
+
+@keyframes aifest-partner-marquee {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes spotlight {
+  0% {
+    opacity: 0;
+    transform: translate(-72%, -62%) scale(0.5);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translate(-50%, -40%) scale(1);
+  }
+}
+
+.animate-spotlight {
+  animation: spotlight 2s ease 0.75s 1 forwards;
+}
+
+/* Animation Classes */
+.aifest-fade-up {
+  animation: aifest-fade-up 700ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.aifest-fade-in {
+  animation: aifest-fade-in 500ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.aifest-scale-in {
+  animation: aifest-scale-in 600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.aifest-slide-in-right {
+  animation: aifest-slide-in-right 600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.aifest-slide-in-left {
+  animation: aifest-slide-in-left 600ms cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.aifest-partner-marquee {
+  animation: aifest-partner-marquee 22s linear infinite;
+}
+
+.aifest-partner-marquee:hover {
+  animation-play-state: paused;
+}
+
+/* Stagger Delays */
+.aifest-stagger-1 {
+  animation-delay: 80ms;
+}
+
+.aifest-stagger-2 {
+  animation-delay: 160ms;
+}
+
+.aifest-stagger-3 {
+  animation-delay: 240ms;
+}
+
+.aifest-stagger-4 {
+  animation-delay: 320ms;
+}
+
+.aifest-stagger-5 {
+  animation-delay: 400ms;
+}
+
+.aifest-stagger-6 {
+  animation-delay: 480ms;
+}
+
+.aifest-stagger-7 {
+  animation-delay: 560ms;
+}
+
+.aifest-stagger-8 {
+  animation-delay: 640ms;
+}
+
+/* ========================================
+   INTERACTION EFFECTS
+   ======================================== */
+
+/* Hover Lift Effect */
+.aifest-hover-lift {
+  position: relative;
+  transition: transform 400ms cubic-bezier(0.16, 1, 0.3, 1),
+    box-shadow 400ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+.aifest-hover-lift:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
+}
+
+.aifest-hover-lift:active {
+  transform: translateY(-2px) scale(1.005);
+  transition-duration: 150ms;
+}
+
+/* Hover Scale */
+.aifest-hover-scale {
+  transition: transform 350ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+.aifest-hover-scale:hover {
+  transform: scale(1.03);
+}
+
+.aifest-hover-scale:active {
+  transform: scale(0.98);
+  transition-duration: 100ms;
+}
+
+/* Magnetic Effect */
+.aifest-magnetic {
+  transition: transform 200ms cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform;
+}
+
+/* Button Press Effect */
+.aifest-press-effect {
+  transition: transform 100ms cubic-bezier(0.34, 1.56, 0.64, 1);
+  will-change: transform;
+}
+
+.aifest-press-effect:active {
+  transform: scale(0.96);
+}
+
+/* Ripple Effect Container */
+.aifest-ripple {
+  position: relative;
+  overflow: hidden;
+}
+
+.aifest-ripple::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 0;
+  height: 0;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.5);
+  transform: translate(-50%, -50%);
+  transition: width 0.6s, height 0.6s;
+}
+
+.aifest-ripple:active::after {
+  width: 300px;
+  height: 300px;
+}
+
+/* Shimmer Effect */
+.aifest-shimmer {
+  position: relative;
+  overflow: hidden;
+}
+
+.aifest-shimmer::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(90deg,
+      transparent,
+      rgba(255, 255, 255, 0.3),
+      transparent);
+  animation: aifest-shimmer 2s infinite;
+}
+
+/* ========================================
+   FOCUS & FORM STATES
+   ======================================== */
+
+.aifest-focus-glow:focus-within {
+  box-shadow: 0 0 0 3px rgba(0, 217, 255, 0.2),
+    0 0 20px rgba(0, 217, 255, 0.15);
+  border-color: var(--cyan);
+  transition: all 300ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.aifest-gradient-text {
+  background: var(--gradient-primary);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-size: 200% 200%;
+  animation: aifest-gradient-shift 4s ease infinite;
+}
+
+.aifest-cyan-glow {
+  box-shadow: 0 0 30px rgba(0, 217, 255, 0.3),
+    0 8px 20px rgba(0, 217, 255, 0.2);
+}
+
+.aifest-playful-card {
+  position: relative;
+  overflow: visible;
+}
+
+.aifest-playful-card::before {
+  content: '';
+  position: absolute;
+  top: -4px;
+  left: -4px;
+  right: -4px;
+  bottom: -4px;
+  background: var(--gradient-secondary);
+  border-radius: inherit;
+  opacity: 0;
+  transition: opacity 300ms ease;
+  z-index: -1;
+}
+
+.aifest-playful-card:hover::before {
+  opacity: 0;
+}
+
+.aifest-input-float {
+  transition: all 350ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.aifest-input-float:focus {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.06);
+}
+
+/* ========================================
+   UTILITY CLASSES
+   ======================================== */
+
+.aifest-smooth {
+  transition: all 300ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.aifest-smooth-fast {
+  transition: all 150ms cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.aifest-soft-border {
+  border-color: var(--border);
+}
+
+.aifest-glass {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+}
+
+/* Performance Optimization */
+.aifest-gpu {
+  transform: translateZ(0);
+  will-change: transform;
+}
+
+/* Reduced Motion Support */
+@media (prefers-reduced-motion: reduce) {
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
 }

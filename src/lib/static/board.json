@@ -1,0 +1,60 @@
+{
+  "team": [
+    {
+      "id": 1775562254383,
+      "name": "Ronnie Atuhaire",
+      "role": "Lead Organizer",
+      "category": "board",
+      "bio": "Ronnie is a Ugandan tech enthusiast, social entrepreneur, and community builder passionate about using technology to solve real-world problems. He is the co-founder of MpaMpe, a crowdfunding startup focused on breaking financial barriers to education and empowering students to access opportunities.\n\nThrough MpaMpe, Ronnie and his team have gained recognition in several prestigious competitions, including the Google programs, the MTN MoMo Hackathon, and FITSPA initiatives, highlighting their innovation and impact in the tech ecosystem.\n\nHis journey through hackathons sparked a deeper passion for building and collaboration. Inspired by this experience, he founded AI Fest Uganda to encourage students and young developers to actively build projects, participate in hackathons, and transform ideas into impactful startups.\n\nAs Lead Organizer, Rinnioe is dedicated to fostering a culture of innovation, hands-on learning, and community-driven growth across Uganda’s tech space.",
+      "image_path": "/media/2025/team/Ronnie.png",
+      "linkedin": "https://www.linkedin.com/in/ronnie-linslay-atuhaire-116108bb/",
+      "twitter": "https://twitter.com/AfroBoyUg",
+      "email": "ronlinx6@gmail.com",
+      "portfolio": "https://atuhaire.com/",
+      "github": "https://github.com/Ronlin1"
+    },
+    {
+      "id": 1775562284124,
+      "name": "Professor Engineer Bainomugisha",
+      "role": "Faculty Mentor",
+      "category": "mentor",
+      "image_path": "/media/2025/team/baino.png",
+      "bio": "Engineer Bainomugisha is a Professor and Chair of Computer Science at Makerere University, and a leading voice in Africa’s AI and software engineering ecosystem. He is a researcher and innovator focused on leveraging technology for social impact, particularly in areas such as artificial intelligence, climate tech, and data-driven systems.\n\nHe is the founder and co-founder of several impactful initiatives, including AirQo, Sunbird AI, and Crane Cloud projects that are advancing air quality monitoring, applied AI research, and cloud infrastructure across Africa. His work has contributed to building scalable, locally relevant solutions that address real-world challenges like climate change and urban sustainability.\n\nBeyond research, Engineer Bainomugisha plays a key role in shaping the future of technology in Africa through mentorship, policy engagement, and global collaboration. He also serves as a council member at the World Economic Forum, contributing to conversations on emerging technologies and their societal impact.\n\nAs a Faculty Mentor for AI Fest Uganda, he brings deep expertise, visionary leadership, and a strong commitment to nurturing the next generation of innovators and problem-solvers.",
+      "linkedin": "https://www.linkedin.com/in/ibaino/",
+      "portfolio": "https://ibaino.net/",
+      "email": "bainomugisha@gmail.com"
+    },
+    {
+      "id": 1775562292322,
+      "name": "Gilbert Junior Buregyeya",
+      "role": "Co-Organizer",
+      "category": "board",
+      "bio": "Gilbert is an Innovation and Entrepreneurship Ecosystem development Fanatic! He is Business Development & Organizational strategist & Consultant, Trainer, Public Speaker, Educationist, and an Entrepreneur.\nI have great passion for local #Innovation, Digitization and #Entrepreneurship leading to problem solving of a common person, common communities! \nMy dream is to see Millions of sustainable \"big\" companies built in Uganda and Africa, employing millions of people and sustaining our economies. I dream to see Africa as a hub of Innovation and Creativity!\nHad an opportunity to work in both the public sector and private sector. I do understand the #Startup Ecosystem in detail having worked in Entrepreneurship development and support for quite some time.\nMy Specialties: Strategic Planning, Project design, Resource Mobilization & Fundraising, partnership development, Capacity Building, Partnership strategy, Digital Transformation, Program development, Project/Program management, Monitoring and Evaluation, Policy & Advocacy, Ecosystem Building.",
+      "image_path": "/media/2025/team/gibert.jpeg",
+      "linkedin": "https://www.linkedin.com/in/gilbert-junior-buregyeya-294a31113/",
+      "twitter": "",
+      "email": ""
+    },
+    {
+      "id": 1775562305369,
+      "name": "Arthur",
+      "role": "Lead Hackers Co-Ordinator",
+      "category": "board",
+      "image_path": "/media/2025/team/arthur.jpeg",
+      "bio": "Arthur is a Tech enthusiast. Hungry for change. He wants to create an impact on the world through tech.",
+      "linkedin": "https://www.linkedin.com/in/asasira-arthur-602a131ab/",
+      "email": "arthurasasira1@gmail.com"
+    },
+    {
+      "id": 1775562330714,
+      "name": "Shakiran Nannyombi",
+      "role": "Lead Partnerships Co-Ordinator",
+      "category": "board",
+      "image_path": "/media/2025/team/WhatsApp Image 2026-03-27 at 10.58.41 PM.jpeg",
+      "bio": "Shakiran Nannyombi is a software engineer and developer building at the intersection of AI, data, and user experience. She works with JavaScript and Python to create applications that are not only functional, but intuitive and impactful.\n\nHer tech journey has been driven by a hands-on mindset—focused on building, learning, and figuring things out along the way. This approach has led her to explore machine learning, frontend engineering, and UI/UX design in a practical and evolving way.\n\nShe is currently focused on growing into an AI engineer while contributing to solutions that solve real-world problems. She is particularly interested in projects that combine data, design, and intelligence to improve how people interact with technology.\n\nAs Partnerships Coordinator for AI Fest Uganda, she is passionate about building meaningful collaborations, connecting communities, and creating opportunities that empower others to learn and innovate.",
+      "linkedin": "https://www.linkedin.com/in/shakiran-nannyombi-401057222/",
+      "portfolio": "https://www.shakiran.dev/",
+      "email": "shakirannannyombi@gmail.com"
+    }
+  ]
+}

@@ -12,13 +12,15 @@ This block is written and re-added by `next dev` — verify at `node_modules/nex
 
 # Neon
 
-This project is linked to Neon (`fragrant-queen-22807485`, branch `production`) with Object Storage bucket `gallery`.
+Linked project `fragrant-queen-22807485` (branch `production`). Bucket `gallery` is `public_read`.
 
-Before writing Neon / storage code, read:
+Object keys are **edition folders**: `2025/`, `2026/`, `shared/`. App paths `/media/{edition}/...` rewrite to Neon.
 
-- `skills/neon` — overview and project wiring
-- `skills/neon-object-storage` — S3-compatible buckets (gallery media)
+Skills to read:
 
-Config: `neon.ts`. Local credentials: `.env.local` (never commit). Deploy with `neon deploy`.
+- `skills/neon`
+- `skills/neon-object-storage`
+
+Config: `neon.ts`. Upload: `npm run media:upload`. Credentials: `.env.local` (never commit).
 
 <!-- END:neon-agent-rules -->
