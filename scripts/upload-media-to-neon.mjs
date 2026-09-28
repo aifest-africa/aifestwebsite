@@ -81,6 +81,11 @@ if (!mediaRoot) {
 /** Edition folders uploaded as top-level bucket prefixes (same name). */
 const EDITION_FOLDERS = ["2025", "2026", "shared"];
 
+/**
+ * shared/partners should only contain institutional partners that span editions:
+ * Makerere University + GDG on Campus Makerere University.
+ * Edition-specific logos live under {year}/partners/.
+ */
 const SKIP_EXT = new Set([".heic", ".HEIC"]);
 
 function aws(args, { quiet = false } = {}) {

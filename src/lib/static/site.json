@@ -56,7 +56,7 @@
       "href": "/contact"
     }
   ],
-  "footer_note": "© 2026 AIFEST. All rights reserved.",
+  "footer_note": "\u00a9 2026 AIFEST. All rights reserved.",
   "contact_email": "info@aifestug.com",
   "socials": [
     {
@@ -109,45 +109,13 @@
   "partner_logos": [
     {
       "path": "/media/shared/partners/gdg.png",
-      "alt": "GDG on Campus",
+      "alt": "GDG on Campus Makerere University",
       "href": "https://gdg.community.dev/gdg-on-campus-makerere-university-kampala-uganda/"
     },
     {
-      "path": "/partners/amalitech.png",
-      "alt": "AmaliTech",
-      "href": "https://amalitech.com"
-    },
-    {
-      "path": "/partners/microsoft.png",
-      "alt": "Microsoft"
-    },
-    {
-      "path": "/partners/github.png",
-      "alt": "GitHub"
-    },
-    {
-      "path": "/partners/ieee.png",
-      "alt": "IEEE"
-    },
-    {
-      "path": "/partners/makerereUniversity.png",
-      "alt": "Makerere University"
-    },
-    {
-      "path": "/partners/miic.png",
-      "alt": "MIIC Hub"
-    },
-    {
-      "path": "/partners/sunbird.png",
-      "alt": "Sunbird AI"
-    },
-    {
-      "path": "/partners/badili.png",
-      "alt": "Badili"
-    },
-    {
-      "path": "/partners/mpampe.png",
-      "alt": "Mpampe"
+      "path": "/media/shared/partners/makerereUniversity.png",
+      "alt": "Makerere University",
+      "href": "https://mak.ac.ug/"
     }
   ],
   "registration_enabled": false,

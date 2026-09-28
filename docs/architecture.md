@@ -29,3 +29,8 @@ Local/git does **not** store `public/media`. Objects live in Neon bucket `galler
 ## Out of scope here
 
 Judges portal lives elsewhere / was not migrated into this repo.
+
+## Partner logos
+
+- `shared/partners/` — only **Makerere University** and **GDG on Campus Makerere University**
+- `2025/partners/`, `2026/partners/` — edition-specific partner logos
