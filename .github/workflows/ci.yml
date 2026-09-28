@@ -1,0 +1,68 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+concurrency:
+  group: ci-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    name: Lint & build
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version-file: ".nvmrc"
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Build
+        run: npm run build
+        env:
+          # Build-time placeholders (real values live in Vercel / Neon)
+          NEXT_PUBLIC_MEDIA_BASE_URL: https://example.invalid/gallery
+          NEON_BRANCH: production
+          S3_BUCKET_NAME: gallery
+          AWS_REGION: us-east-2
+
+  up-to-date-with-main:
+    name: Up to date with main
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Require latest main in this branch
+        run: |
+          set -euo pipefail
+          git fetch origin main:main
+          if git merge-base --is-ancestor main HEAD; then
+            echo "OK: this branch includes the latest commits from main."
+          else
+            echo "::error::This branch is behind main. Merge or rebase main into your branch before merging."
+            echo "Behind by commits:"
+            git log --oneline HEAD..main | head -20
+            exit 1
+          fi
